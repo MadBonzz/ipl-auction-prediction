@@ -1,0 +1,971 @@
+,economy,bowling_strike_rate,death_economy,balls_per_boundary,wickets_taken,dot_ball_pct,runs_scored,average,boundary_pct,strike_rate,player_name,battingstyle,bowlingstyle,position,Year,Player,Amount,Player Origin
+0,,,,82.85714285714286,,,100.0,79.48717948717949,89.74358974358975,79.48717948717949,Aaron Finch,right-hand-bat,slow-left-arm-orthodox,Batsman,2014.0,Aaron Finch,40000000,Overseas
+1,,,,79.48717948717949,,,100.0,76.74418604651163,90.47619047619048,78.57142857142857,Aaron Finch,right-hand-bat,slow-left-arm-orthodox,Batsman,2015.0,Aaron Finch,32000000,Overseas
+2,,,,78.26086956521739,,,97.95918367346938,81.63265306122449,85.41666666666666,83.33333333333334,Aaron Finch,right-hand-bat,slow-left-arm-orthodox,Batsman,2016.0,Aaron Finch,10000000,Overseas
+3,,,,84.90566037735849,,,96.49122807017544,87.71929824561403,67.85714285714286,92.85714285714286,Aaron Finch,right-hand-bat,slow-left-arm-orthodox,Batsman,2018.0,Aaron Finch,62000000,Overseas
+4,,,,77.96610169491525,,,96.7741935483871,64.51612903225806,73.77049180327869,80.32786885245902,Aaron Finch,right-hand-bat,slow-left-arm-orthodox,Batsman,2020.0,Aaron Finch,44000000,Overseas
+5,,,,,,,,,,,,,,,2020.0,Abdul Samad,2000000,Indian
+6,,,,,,,,,,,,,,,2022.0,Abhijeet Tomar,4000000,Indian
+7,,,,,,,,,,,,,,,2015.0,Abhimanyu Mithun,3000000,Indian
+8,,,,,,,,,,,,,,,2016.0,Abhimanyu Mithun,3000000,Indian
+9,,,,,,,,,,,,,,,2022.0,Abhinav Sadarangani,26000000,Indian
+10,,,,,,,,,,,,,,,2013.0,Abhishek Nayar,50625000,Indian
+11,,,,,,,,,,,,,,,2014.0,Abhishek Nayar,10000000,Indian
+12,,,,,,,,,,,,,,,2018.0,Abhishek Sharma,5500000,Indian
+13,,,,,,,,,,,,,,,2022.0,Abhishek Sharma,65000000,Indian
+14,,,,,,,,,,,,,,,2014.0,Abu Nechim Ahmed,3000000,Indian
+15,100.0,28.07017543859649,81.81818181818183,,60.317460317460316,98.4126984126984,,,,,Adam Milne,right-hand-bat,right-arm-fast,Bowler,2015.0,Adam Milne,7000000,Overseas
+16,17.293233082706767,18.0327868852459,53.84615384615385,,63.43283582089553,35.338345864661655,,,,,Adam Milne,right-hand-bat,right-arm-fast,Bowler,2021.0,Adam Milne,32000000,Overseas
+17,62.23776223776224,54.54545454545454,27.586206896551722,,73.10344827586206,83.21678321678321,,,,,Adam Milne,right-hand-bat,right-arm-fast,Bowler,2022.0,Adam Milne,19000000,Overseas
+18,97.33333333333334,19.047619047619047,90.38461538461539,,45.33333333333333,72.0,,,,,Adam Zampa,right-hand-bat,legbreak-googly,Bowler,2016.0,Adam Zampa,3000000,Overseas
+19,,,,,,,,,,,,,,,2015.0,Aditya Garhwal,2500000,Indian
+20,,,,,,,,,,,,,,,2014.0,Aditya Tare,16000000,Indian
+21,,,,,,,,,,,,,,,2016.0,Aditya Tare,12000000,Indian
+22,,,,,,,,,,,,,,,2017.0,Aditya Tare,2500000,Indian
+23,,,,,,,,,,,,,,,2018.0,Aditya Tare,2000000,Indian
+24,,,,,,,,,,,,,,,2019.0,Agnivesh Ayachi,2000000,Indian
+25,,,,,,,,,,,,,,,2015.0,Aiden Blizzard,3000000,Overseas
+26,,,,37.878787878787875,,,62.31884057971014,86.95652173913044,41.17647058823529,47.05882352941176,Aiden Markram,right-hand-bat,right-arm-offbreak,Batsman,2022.0,Aiden Markram,26000000,Overseas
+27,,,,,,,,,,,,,,,2013.0,Ajantha Mendis,54375000,Overseas
+28,,,,5.660377358490567,,,43.859649122807014,45.614035087719294,10.714285714285714,21.428571428571427,Ajinkya Rahane,right-hand-bat,right-arm-fast-medium,Batsman,2018.0,Ajinkya Rahane,40000000,Indian
+29,,,,6.0606060606060606,,,36.231884057971016,36.231884057971016,11.76470588235294,17.647058823529413,Ajinkya Rahane,right-hand-bat,right-arm-fast-medium,Batsman,2022.0,Ajinkya Rahane,10000000,Indian
+30,,,,,,,,,,,,,,,2022.0,Akash Deep,2000000,Indian
+31,,,,,,,,,,,,,,,2020.0,Akash Singh,2000000,Indian
+32,,,,,,,,,,,,,,,2021.0,Akash Singh,2000000,Indian
+33,,,,,,,,,,,,,,,2016.0,Akhil Arvind Herwadkar,1000000,Indian
+34,,,,,,,,,,,,,,,2013.0,Akila Dananjaya,1500000,Overseas
+35,,,,,,,,,,,,,,,2018.0,Akila Dhananjaya,5000000,Overseas
+36,,,,,,,,,,,,,,,2014.0,Akshar Rajesh Patel,7500000,Indian
+37,,,,,,,,,,,,,,,2016.0,Akshay Karnewar,1000000,Indian
+38,,,,,,,,,,,,,,,2015.0,Akshay Wakhare,1000000,Indian
+39,,,,,,,,,,,,,,,2016.0,Akshdeep Nath,1000000,Indian
+40,,,,,,,,,,,,,,,2017.0,Akshdeep Nath,1000000,Indian
+41,,,,,,,,,,,,,,,2018.0,Akshdeep Nath,10000000,Indian
+42,,,,,,,,,,,,,,,2019.0,Akshdeep Nath,36000000,Indian
+43,50.0,8.0,,20.0,44.11764705882353,23.333333333333332,47.05882352941176,47.05882352941176,25.0,75.0,Albie Morkel,left-hand-bat,right-arm-fast-medium,Allrounder,2014.0,Albie Morkel,24000000,Overseas
+44,97.22222222222221,81.66666666666667,,28.125,72.5,91.66666666666666,50.0,10.0,43.24324324324324,67.56756756756756,Albie Morkel,left-hand-bat,right-arm-fast-medium,Allrounder,2015.0,Albie Morkel,3000000,Overseas
+45,,,,2.941176470588235,,,40.54054054054054,21.62162162162162,16.666666666666664,19.444444444444446,Alex Carey,left-hand-bat,,Wicketkeeper,2020.0,Alex Carey,24000000,Overseas
+46,,,,100.0,,,88.88888888888889,100.0,100.0,88.88888888888889,Alex Hales,right-hand-bat,right-arm-fast-medium,Top Order Batter,2022.0,Alex Hales,15000000,Overseas
+47,44.05594405594406,59.84848484848485,89.65517241379311,,57.931034482758626,38.111888111888106,,,,,Alzarri Joseph,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Alzarri Joseph,24000000,Overseas
+48,,,,,,,,,,,,,,,2022.0,Aman Khan,2000000,Indian
+49,,,,,,,3.508771929824561,3.508771929824561,3.571428571428571,1.7857142857142856,Ambati Rayudu,right-hand-bat,right-arm-offbreak,Batsman,2018.0,Ambati Rayudu,22000000,Indian
+50,,,,,,,2.898550724637681,2.898550724637681,2.2058823529411766,1.4705882352941175,Ambati Rayudu,right-hand-bat,right-arm-offbreak,Batsman,2022.0,Ambati Rayudu,67500000,Indian
+51,57.692307692307686,86.95652173913044,73.68421052631578,,80.76923076923077,41.34615384615385,,,,,Amit Mishra,right-hand-bat,legbreak,Bowler,2014.0,Amit Mishra,1000000,Indian
+52,57.692307692307686,86.95652173913044,73.68421052631578,,80.76923076923077,41.34615384615385,,,,,Amit Mishra,right-hand-bat,legbreak,Bowler,2014.0,Amit Mishra,47500000,Indian
+53,66.66666666666666,87.71929824561403,73.86363636363636,,77.77777777777779,48.41269841269841,,,,,Amit Mishra,right-hand-bat,legbreak,Bowler,2015.0,Amit Mishra,35000000,Indian
+54,93.33333333333333,95.23809523809523,61.53846153846154,,81.33333333333333,88.0,,,,,Amit Mishra,right-hand-bat,legbreak,Bowler,2016.0,Amit Mishra,1000000,Indian
+55,91.34615384615384,25.53191489361702,62.33766233766234,,77.14285714285715,53.84615384615385,,,,,Amit Mishra,right-hand-bat,legbreak,Bowler,2018.0,Amit Mishra,40000000,Indian
+56,,,,,,,,,,,,,,,2014.0,Amit Paunikar,2000000,Indian
+57,60.0,76.0,81.25,50.0,85.29411764705883,63.33333333333333,67.64705882352942,52.94117647058824,50.0,59.375,Andre Russell,right-hand-bat,right-arm-fast,Allrounder,2014.0,Andre Russell,6000000,Overseas
+58,,,,,,,,,,,,,,,2015.0,Andrew Tye,2000000,Overseas
+59,16.0,15.873015873015872,19.230769230769234,,34.66666666666667,16.0,,,,,Andrew Tye,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Andrew Tye,5000000,Overseas
+60,39.42307692307692,72.3404255319149,48.05194805194805,,88.57142857142857,35.57692307692308,,,,,Andrew Tye,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Andrew Tye,72000000,Overseas
+61,30.0,48.148148148148145,48.93617021276596,,88.42975206611571,88.33333333333333,,,,,Andrew Tye,right-hand-bat,right-arm-fast-medium,Bowler,2020.0,Andrew Tye,10000000,Overseas
+62,,,,,,,,,,,,,,,2022.0,Aneeshwar Gautam,2000000,Indian
+63,,,,,,,,,,,,,,,2015.0,Angelo Mathews,75000000,Overseas
+64,,,,,,,,,,,,,,,2017.0,Angelo Mathews,20000000,Overseas
+65,,,,,,,,,,,,,,,2017.0,Aniket Choudhary,20000000,Indian
+66,,,,,,,,,,,,,,,2018.0,Aniket Choudhary,3000000,Indian
+67,,,,,,,,,,,,,,,2018.0,Anirudha Ashok Joshi,2000000,Indian
+68,,,,,,,,,,,,,,,2020.0,Anirudha Ashok Joshi,2000000,Indian
+69,,,,,,,,,,,,,,,2017.0,Ankeet Bawane,1000000,Indian
+70,,,,,,,,,,,,,,,2014.0,Ankit Nagendra Sharma,1000000,Indian
+71,,,,,,,,,,,,,,,2016.0,Ankit Sharma,1000000,Indian
+72,,,,,,,,,,,,,,,2018.0,Ankit Sharma,2000000,Indian
+73,,,,,,,,,,,,,,,2016.0,Ankit Singh Rajpoot,15000000,Indian
+74,,,,,,,,,,,,,,,2018.0,Ankit Singh Rajpoot,30000000,Indian
+75,,,,,,,,,,,,,,,2022.0,Ankit Singh Rajpoot,5000000,Indian
+76,,,,,,,,,,,,,,,2014.0,Ankush Bains,1000000,Indian
+77,,,,,,,,,,,,,,,2015.0,Ankush Bains,1000000,Indian
+78,,,,,,,,,,,,,,,2016.0,Ankush Bains,1000000,Indian
+79,,,,,,,,,,,,,,,2019.0,Ankush Bains,2000000,Indian
+80,,,,,,,,,,,,,,,2019.0,Anmolpreet Singh,8000000,Indian
+81,,,,,,,,,,,,,,,2022.0,Anmolpreet Singh,2000000,Indian
+82,36.206896551724135,,,,5.982905982905983,40.51724137931034,,,,,Anrich Nortje,right-hand-bat,right-arm-fast,Bowler,2019.0,Anrich Nortje,2000000,Overseas
+83,99.3006993006993,80.3030303030303,98.27586206896551,,56.55172413793104,98.6013986013986,,,,,Ansh Patel,,,Bowler,2022.0,Ansh Patel,2000000,Indian
+84,,,,,,,,,,,,,,,2020.0,Anuj Rawat,8000000,Indian
+85,,,,,,,,,,,,,,,2022.0,Anuj Rawat,34000000,Indian
+86,,,,,,,,,,,,,,,2018.0,Anukul Roy,2000000,Indian
+87,,,,,,,,,,,,,,,2022.0,Anukul Roy,2000000,Indian
+88,,,,,,,,,,,,,,,2022.0,Anunay Singh,2000000,Indian
+89,,,,,,,,,,,,,,,2014.0,Anureet Singh,2000000,Indian
+90,,,,,,,,,,,,,,,2018.0,Anureet Singh,3000000,Indian
+91,,,,,,,,,,,,,,,2014.0,Apoorv Vijay Wankhade,1000000,Indian
+92,,,,,,,,,,,,,,,2018.0,Apoorv Vijay Wankhade,2000000,Indian
+93,,,,,,,,,,,,,,,2021.0,Arjun Tendulkar,2000000,Indian
+94,,,,,,,,,,,,,,,2022.0,Arjun Tendulkar,3000000,Indian
+95,,,,,,,,,,,,,,,2016.0,Armaan Jaffer,1000000,Indian
+96,,,,,,,,,,,,,,,2019.0,Arshdeep Singh,2000000,Indian
+97,,,,,,,,,,,,,,,2018.0,Aryaman Vikram Birla,3000000,Indian
+98,,,,,,,,,,,,,,,2022.0,Aryan Juyal,2000000,Indian
+99,,,,,,,,,,,,,,,2017.0,Asela Gunarathna,3000000,Overseas
+100,,,,,,,,,,,,,,,2014.0,Ashish Nehra,20000000,Indian
+101,68.0,54.761904761904766,65.38461538461539,,82.66666666666667,86.66666666666667,,,,,Ashish Nehra,right-hand-bat,left-arm-fast-medium,Bowler,2016.0,Ashish Nehra,55000000,Indian
+102,,,,,,,,,,,,,,,2014.0,Ashish Reddy,2000000,Indian
+103,,,,,,,,,,,,,,,2014.0,Ashok Dinda,15000000,Indian
+104,,,,,,,,,,,,,,,2016.0,Ashok Dinda,5000000,Indian
+105,,,,,,,,,,,,,,,2022.0,Ashok Sharma,5500000,Indian
+106,,,,,,,12.5,12.5,,12.5,Ashton Turner,right-hand-bat,right-arm-offbreak,Middle Order Batter,2019.0,Ashton Turner,5000000,Indian
+107,,,,,,,,,,,,,,,2022.0,Ashwin Hebbar,2000000,Indian
+108,,,,,,,,,,,,,,,2018.0,Asif K M,4000000,Indian
+109,,,,,,,,,,,,,,,2022.0,Atharva Taide,2000000,Indian
+110,,,,,,,,,,,,,,,2018.0,Avesh Khan,7000000,Indian
+111,22.377622377622377,32.57575757575758,3.4482758620689653,,54.48275862068965,72.02797202797203,,,,,Avesh Khan,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Avesh Khan,100000000,Indian
+112,3.389830508474576,43.63636363636363,55.00000000000001,96.55172413793103,44.61538461538462,11.864406779661017,27.692307692307693,10.76923076923077,14.516129032258066,38.70967741935484,Axar Rajesh Patel,left-hand-bat,slow-left-arm-orthodox,Allrounder,2019.0,Axar Rajesh Patel,50000000,Indian
+113,,,,,,,,,,,,,,,2022.0,Ayush Badoni,2000000,Indian
+114,,,,,,,,,,,,,,,2022.0,B. Sai Sudharsan,2000000,Indian
+115,,,,,,,,,,,,,,,2014.0,Baba Aparajith,1000000,Indian
+116,,,,,,,,,,,,,,,2016.0,Baba Aparajith,1000000,Indian
+117,,,,,,,,,,,,,,,2022.0,Baba Indrajith,2000000,Indian
+118,,,,,,,,,,,,,,,2022.0,Baltej Dhanda,2000000,Indian
+119,,,,,,,,,,,,,,,2019.0,Bandaru Ayyappa,2000000,Indian
+120,,,,,,,,,,,,,,,2015.0,Barinder Singh Saran,1000000,Indian
+121,,,,,,,,,,,,,,,2016.0,Barinder Singh Sran,12000000,Indian
+122,,,,,,,,,,,,,,,2018.0,Barinder Singh Sran,22000000,Indian
+123,,,,,,,,,,,,,,,2019.0,Barinder Singh Sran,34000000,Indian
+124,,,,,,,,,,,,,,,2017.0,Basil Thampi,8500000,Indian
+125,,,,,,,,,,,,,,,2018.0,Basil Thampi,9500000,Indian
+126,,,,,,,,,,,,,,,2022.0,Basil Thampi,3000000,Indian
+127,90.0,52.0,,76.66666666666667,58.82352941176471,43.333333333333336,44.11764705882353,55.88235294117647,90.625,50.0,Ben Cutting,right-hand-bat,right-arm-fast-medium,Allrounder,2014.0,Ben Cutting,8000000,Overseas
+128,78.04878048780488,30.555555555555557,,80.55555555555556,34.883720930232556,41.46341463414634,41.86046511627907,58.139534883720934,90.0,70.0,Ben Cutting,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Ben Cutting,5000000,Overseas
+129,80.76923076923077,36.734693877551024,,80.3921568627451,32.758620689655174,36.53846153846153,37.93103448275862,55.172413793103445,92.5925925925926,64.81481481481481,Ben Cutting,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Ben Cutting,22000000,Overseas
+130,67.6056338028169,27.27272727272727,,85.29411764705883,28.000000000000004,26.76056338028169,30.666666666666664,46.666666666666664,95.77464788732394,58.333333333333336,Ben Cutting,right-hand-bat,right-arm-fast-medium,Allrounder,2021.0,Ben Cutting,7500000,Overseas
+131,,,,33.33333333333333,,,25.0,18.75,50.0,37.5,Ben Dunk,left-hand-bat,right-arm-offbreak,Wicketkeeper,2014.0,Ben Dunk,2000000,Overseas
+132,,,,,,,,,,,,,,,2018.0,Ben Dwarshuis,14000000,Overseas
+133,,,,,,,,,,,,,,,2014.0,Ben Hilfenhaus,10000000,Overseas
+134,,,,,,,,,,,,,,,2013.0,Ben Laughlin,1500000,Overseas
+135,,,,,,,,,,,,,,,2017.0,Ben Laughlin,3000000,Overseas
+136,,,,,,,,,,,,,,,2018.0,Ben Laughlin,5000000,Overseas
+137,41.30434782608695,14.285714285714285,35.714285714285715,65.9090909090909,86.0,45.65217391304348,74.0,80.0,65.21739130434783,67.3913043478261,Benjamin Stokes,left-hand-bat,right-arm-fast-medium,Allrounder,2017.0,Benjamin Stokes,145000000,Overseas
+138,98.07692307692307,14.285714285714285,37.142857142857146,50.98039215686274,81.03448275862068,71.15384615384616,77.58620689655173,56.896551724137936,27.77777777777778,68.51851851851852,Benjamin Stokes,left-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Benjamin Stokes,125000000,Overseas
+139,,,,,,,,,,,,,,,2022.0,Benny Howell,4000000,Overseas
+140,17.307692307692307,66.30434782608695,50.0,,61.53846153846154,31.73076923076923,,,,,Beuran Hendricks,left-hand-bat,left-arm-fast-medium,Bowler,2014.0,Beuran Hendricks,18000000,Overseas
+141,,,,,,,,,,,,,,,2022.0,Bhanuka Rajapaksa,5000000,Overseas
+142,84.61538461538461,21.73913043478261,52.63157894736842,,67.3076923076923,94.23076923076923,,,,,Bhuvneshwar Kumar,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Bhuvneshwar Kumar,42500000,Overseas
+143,76.92307692307693,36.36363636363637,53.44827586206896,,97.93103448275862,95.1048951048951,,,,,Bhuvneshwar Kumar,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Bhuvneshwar Kumar,42000000,Indian
+144,,,,,,,,,,,,,,,2017.0,Billy Stanlake,3000000,Overseas
+145,38.46153846153847,65.95744680851064,46.75324675324675,,74.28571428571429,76.92307692307693,,,,,Billy Stanlake,left-hand-bat,right-arm-fast,Bowler,2018.0,Billy Stanlake,5000000,Overseas
+146,,,,,,,,,,,,,,,2018.0,Bipul Sharma,2000000,Indian
+147,,,,31.428571428571427,,,56.41025641025641,71.7948717948718,28.205128205128204,71.7948717948718,Brad Hodge,right-hand-bat,right-arm-offbreak,Batsman,2014.0,Brad Hodge,24000000,Overseas
+148,92.06349206349206,69.2982456140351,,,39.682539682539684,46.03174603174603,,,,,Brad Hogg,left-hand-bat,slow-left-arm-orthodox,Bowler,2015.0,Brad Hogg,5000000,Overseas
+149,,,,,,,,,,,,,,,2014.0,Brendan Taylor,3000000,Overseas
+150,,,,53.333333333333336,,,100.0,87.5,43.75,50.0,Brendon McCullum,right-hand-bat,right-arm-offbreak,Wicketkeeper,2014.0,Brendon McCullum,32500000,Overseas
+151,,,,100.0,,,82.85714285714286,82.85714285714286,100.0,100.0,Brendon McCullum,right-hand-bat,right-arm-offbreak,Wicketkeeper,2018.0,Brendon McCullum,36000000,Overseas
+152,,,,,,,,,,,,,,,2021.0,C Hari Nishaanth,2000000,Indian
+153,,,,,,,,,,,,,,,2022.0,C.Hari Nishaanth,2000000,Indian
+154,,,,,,,,,,,,,,,2014.0,C.M. Gautam,2000000,Indian
+155,,,,,,,,,,,,,,,2015.0,C.M. Gautam,2000000,Indian
+156,,,,,,,,,,,,,,,2018.0,Cameron Delport,3000000,Overseas
+157,20.0,20.0,20.0,100.0,20.0,20.0,100.0,100.0,100.0,100.0,Carlos Brathwaite,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2016.0,Carlos Brathwaite,42000000,Overseas
+158,37.5,25.0,14.285714285714285,16.666666666666664,62.5,37.5,100.0,62.5,50.0,16.666666666666664,Carlos Brathwaite,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2018.0,Carlos Brathwaite,20000000,Overseas
+159,22.22222222222222,55.55555555555556,11.11111111111111,11.11111111111111,66.66666666666666,11.11111111111111,100.0,22.22222222222222,44.44444444444444,22.22222222222222,Carlos Brathwaite,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2019.0,Carlos Brathwaite,50000000,Overseas
+160,,,,,,,,,,,,,,,2018.0,Chaitanya Bishnoi,2000000,Indian
+161,,,,,,,,,,,,,,,2014.0,Chama Milind,1000000,Indian
+162,,,,,,,,,,,,,,,2016.0,Chama Milind,1000000,Indian
+163,,,,,,,,,,,,,,,2022.0,Chama Milind,2500000,Indian
+164,,,,,,,,,,,,,,,2022.0,Chamika Karunaratne,5000000,Overseas
+165,,,,,,,,,,,,,,,2021.0,Chetan Sakariya,12000000,Indian
+166,,,,,,,,,,,,,,,2022.0,Chetan Sakariya,42000000,Indian
+167,,,,,,,,,,,,,,,2014.0,Cheteshwar Pujara,19000000,Indian
+168,,,,,,,,,,,,,,,2021.0,Cheteshwar Pujara,5000000,Indian
+169,,,,,,,,,,,,,,,2017.0,Chirag Suri,1000000,Indian
+170,,,,,,,,,,,,,,,2020.0,Chris Green,2000000,Overseas
+171,40.65934065934066,71.7948717948718,39.682539682539684,,97.82608695652173,46.15384615384615,,,,,Chris Jordan,right-hand-bat,right-arm-fast-medium,Bowler,2017.0,Chris Jordan,5000000,Overseas
+172,47.11538461538461,20.212765957446805,63.63636363636363,,98.09523809523809,44.230769230769226,,,,,Chris Jordan,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Chris Jordan,10000000,Overseas
+173,44.166666666666664,70.37037037037037,67.02127659574468,,100.0,27.500000000000004,,,,,Chris Jordan,right-hand-bat,right-arm-fast-medium,Bowler,2020.0,Chris Jordan,30000000,Overseas
+174,27.972027972027973,58.333333333333336,42.241379310344826,,100.0,23.776223776223777,,,,,Chris Jordan,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Chris Jordan,36000000,Overseas
+175,,,,57.14285714285714,,,30.76923076923077,74.35897435897436,66.66666666666666,93.58974358974359,Chris Lynn,right-hand-bat,slow-left-arm-orthodox,Batsman,2014.0,Chris Lynn,13000000,Overseas
+176,,,,75.47169811320755,,,54.385964912280706,49.122807017543856,91.07142857142857,73.21428571428571,Chris Lynn,right-hand-bat,slow-left-arm-orthodox,Batsman,2018.0,Chris Lynn,96000000,Overseas
+177,,,,86.4406779661017,,,53.2258064516129,50.0,93.44262295081968,81.9672131147541,Chris Lynn,right-hand-bat,slow-left-arm-orthodox,Batsman,2020.0,Chris Lynn,20000000,Overseas
+178,17.391304347826086,16.666666666666664,39.285714285714285,,18.0,56.52173913043478,5.0,5.0,,,Chris Woakes,right-hand-bat,right-arm-fast-medium,Allrounder,2017.0,Chris Woakes,42000000,Overseas
+179,23.076923076923077,18.367346938775512,40.0,,17.24137931034483,51.92307692307693,4.310344827586207,4.310344827586207,,,Chris Woakes,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Chris Woakes,74000000,Overseas
+180,24.193548387096776,22.033898305084744,40.0,,14.705882352941178,56.451612903225815,3.6764705882352944,3.6764705882352944,,,Chris Woakes,right-hand-bat,right-arm-fast-medium,Allrounder,2020.0,Chris Woakes,15000000,Overseas
+181,,,,,,,,,,,,,,,2013.0,Christopher Barnwell,3750000,Overseas
+182,90.38461538461539,89.79591836734694,,84.31372549019608,25.862068965517242,100.0,96.55172413793103,17.24137931034483,81.48148148148148,1.8518518518518516,Christopher Gayle,left-hand-bat,right-arm-offbreak,Allrounder,2018.0,Christopher Gayle,20000000,Overseas
+183,,,,,,,,,,,,,,,2013.0,Christopher Morris,46875000,Overseas
+184,36.11111111111111,86.66666666666667,84.21052631578947,,62.5,38.88888888888889,5.0,5.0,,,Christopher Morris,right-hand-bat,right-arm-fast-medium,Allrounder,2015.0,Christopher Morris,14000000,Overseas
+185,29.268292682926827,22.22222222222222,40.0,50.0,76.74418604651163,51.21951219512195,51.162790697674424,79.06976744186046,52.5,55.00000000000001,Christopher Morris,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Christopher Morris,70000000,Overseas
+186,59.67741935483871,54.23728813559322,57.77777777777777,31.666666666666664,86.76470588235294,83.87096774193549,52.94117647058824,13.23529411764706,98.4375,7.8125,Christopher Morris,right-hand-bat,right-arm-fast-medium,Allrounder,2020.0,Christopher Morris,100000000,Overseas
+187,,,,,,,,,,,,,,,2021.0,Christopher Morris,162500000,Overseas
+188,,,,,,,,,,,,,,,2013.0,Clinton McKay,7500000,Overseas
+189,34.61538461538461,55.10204081632652,17.142857142857142,52.94117647058824,70.6896551724138,19.230769230769234,72.41379310344827,68.96551724137932,44.44444444444444,81.48148148148148,Colin De Grandhomme,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Colin De Grandhomme,22000000,Overseas
+190,,,,,,,,,,,,,,,2019.0,Colin Ingram,64000000,Overseas
+191,,,,43.47826086956522,,,71.42857142857143,59.183673469387756,58.333333333333336,47.91666666666667,Colin Munro,left-hand-bat,right-arm-fast-medium,Batsman,2016.0,Colin Munro,3000000,Overseas
+192,,,,94.33962264150944,,,94.73684210526315,89.47368421052632,89.28571428571429,96.42857142857143,Colin Munro,left-hand-bat,right-arm-fast-medium,Batsman,2018.0,Colin Munro,19000000,Overseas
+193,73.33333333333333,60.0,62.5,46.666666666666664,97.05882352941177,53.333333333333336,55.88235294117647,44.11764705882353,59.375,56.25,Corey Anderson,left-hand-bat,left-arm-fast-medium,Allrounder,2014.0,Corey Anderson,45000000,Overseas
+194,76.08695652173914,47.61904761904761,67.85714285714286,68.18181818181817,84.0,60.86956521739131,84.0,90.0,67.3913043478261,78.26086956521739,Corey Anderson,left-hand-bat,left-arm-fast-medium,Allrounder,2017.0,Corey Anderson,10000000,Overseas
+195,32.0,52.38095238095239,36.53846153846153,,77.33333333333333,46.666666666666664,,,,,Dale Steyn,right-hand-bat,right-arm-fast,Bowler,2016.0,Dale Steyn,23000000,Overseas
+196,62.5,28.703703703703702,93.61702127659575,,69.42148760330579,86.66666666666667,,,,,Dale Steyn,right-hand-bat,right-arm-fast,Bowler,2020.0,Dale Steyn,20000000,Overseas
+197,,,,,,,,,,,,,,,2021.0,Dan Christian,48000000,Overseas
+198,,,,,,,,,,,,,,,2013.0,Daniel Christian,7500000,Overseas
+199,6.521739130434782,33.33333333333333,46.42857142857143,88.63636363636364,36.0,6.521739130434782,26.0,38.0,10.869565217391305,23.91304347826087,Daniel Christian,right-hand-bat,right-arm-fast-medium,Allrounder,2017.0,Daniel Christian,10000000,Overseas
+200,7.6923076923076925,33.6734693877551,45.714285714285715,82.35294117647058,29.310344827586203,5.769230769230769,24.137931034482758,39.6551724137931,11.11111111111111,29.629629629629626,Daniel Christian,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Daniel Christian,15000000,Overseas
+201,25.0,52.77777777777778,64.81481481481481,50.0,61.72839506172839,63.1578947368421,43.20987654320987,83.9506172839506,50.649350649350644,66.66666666666666,Daniel Sams,right-hand-bat,left-arm-fast-medium,Allrounder,2022.0,Daniel Sams,26000000,Overseas
+202,,,,67.9245283018868,,,61.40350877192983,68.42105263157895,73.21428571428571,58.92857142857143,Darcy Short,left-hand-bat,slow-left-arm-orthodox,Batsman,2018.0,Darcy Short,40000000,Overseas
+203,,,,38.0,,,46.2962962962963,66.66666666666666,49.056603773584904,60.37735849056604,Darren Bravo,left-hand-bat,right-arm-fast-medium,Batsman,2017.0,Darren Bravo,5000000,Overseas
+204,61.904761904761905,45.83333333333333,,88.88888888888889,60.416666666666664,9.523809523809524,54.166666666666664,66.66666666666666,90.0,95.23809523809523,Darren Sammy,right-hand-bat,right-arm-fast-medium,Allrounder,2013.0,Darren Sammy,31875000,Overseas
+205,56.666666666666664,36.0,,96.66666666666667,70.58823529411765,20.0,82.35294117647058,91.17647058823529,93.75,100.0,Darren Sammy,right-hand-bat,right-arm-fast-medium,Allrounder,2014.0,Darren Sammy,35000000,Overseas
+206,22.22222222222222,26.666666666666668,,50.0,70.0,5.555555555555555,90.0,80.0,45.94594594594595,89.1891891891892,Darren Sammy,right-hand-bat,right-arm-fast-medium,Allrounder,2015.0,Darren Sammy,28000000,Overseas
+207,4.3478260869565215,19.047619047619047,,75.0,62.0,4.3478260869565215,80.0,22.0,8.695652173913043,10.869565217391305,Darren Sammy,right-hand-bat,right-arm-fast-medium,Allrounder,2017.0,Darren Sammy,3000000,Overseas
+208,,,,,,,,,,,,,,,2019.0,Darshan Nalkande,3000000,Indian
+209,,,,,,,,,,,,,,,2022.0,Darshan Nalkande,2000000,Indian
+210,6.578947368421052,81.94444444444444,24.074074074074073,36.11111111111111,51.85185185185185,60.526315789473685,85.18518518518519,70.37037037037037,32.467532467532465,79.48717948717949,Daryl Mitchell,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Daryl Mitchell,7500000,Overseas
+211,,,,26.41509433962264,,,80.7017543859649,36.84210526315789,37.5,41.07142857142857,David Miller,left-hand-bat,right-arm-offbreak,Batsman,2018.0,David Miller,30000000,Overseas
+212,,,,22.033898305084744,,,82.25806451612904,51.61290322580645,24.59016393442623,36.0655737704918,David Miller,left-hand-bat,right-arm-offbreak,Batsman,2020.0,David Miller,7500000,Overseas
+213,,,,50.0,,,85.5072463768116,92.7536231884058,54.41176470588235,76.47058823529412,David Miller,left-hand-bat,right-arm-offbreak,Batsman,2022.0,David Miller,30000000,Overseas
+214,,,,88.57142857142857,,,82.05128205128204,76.92307692307693,92.3076923076923,89.74358974358975,David Warner,left-hand-bat,legbreak,Batsman,2014.0,David Warner,55000000,Overseas
+215,,,,89.39393939393939,,,86.95652173913044,79.71014492753623,85.29411764705883,92.64705882352942,David Warner,left-hand-bat,legbreak,Batsman,2022.0,David Warner,62500000,Overseas
+216,,,,,,,,,,,,,,,2015.0,David Wiese,28000000,Overseas
+217,81.81818181818183,63.63636363636363,72.72727272727273,63.63636363636363,81.81818181818183,100.0,81.81818181818183,90.9090909090909,72.72727272727273,81.81818181818183,David Willey,left-hand-bat,left-arm-fast-medium,Bowling Allrounder,2022.0,David Willey,20000000,Overseas
+218,,,,66.66666666666666,,,100.0,100.0,55.55555555555556,77.77777777777779,Dawid Malan,left-hand-bat,legbreak,Top Order Batter,2021.0,Dawid Malan,15000000,Overseas
+219,,,,,,,,,,,,,,,2014.0,Debabrata Das,2000000,Indian
+220,,,,,,,,,,,,,,,2016.0,Deepak Chahar,1000000,Indian
+221,45.19230769230769,24.46808510638298,,,13.333333333333334,95.1923076923077,,,,,Deepak Chahar,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Deepak Chahar,8000000,Indian
+222,49.65034965034965,43.93939393939394,28.448275862068968,,86.89655172413792,81.81818181818183,,,,,Deepak Chahar,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Deepak Chahar,140000000,Indian
+223,,,,,,,,,,,,,,,2014.0,Deepak Hooda,4000000,Indian
+224,,,,,,,,,,,,,,,2016.0,Deepak Hooda,42000000,Indian
+225,,,,,,,,,,,,,,,2018.0,Deepak Hooda,36000000,Indian
+226,,,,,,,,,,,,,,,2020.0,Deepak Hooda,5000000,Indian
+227,98.68421052631578,94.44444444444444,98.14814814814815,59.72222222222222,37.03703703703704,97.36842105263158,60.49382716049383,85.18518518518519,42.857142857142854,74.35897435897436,Deepak Hooda,right-hand-bat,right-arm-offbreak,Allrounder,2022.0,Deepak Hooda,57500000,Indian
+228,,,,,,,,,,,,,,,2016.0,Deepak Punia,1000000,Indian
+229,,,,,,,,,,,,,,,2019.0,Devdutt Padikkal,2000000,Indian
+230,,,,,,,,,,,,,,,2022.0,Devdutt Padikkal,77500000,Indian
+231,,,,50.0,,,85.71428571428571,97.61904761904762,39.02439024390244,58.536585365853654,Devon Conway,left-hand-bat,right-arm-fast-medium,Wicketkeeper,2022.0,Devon Conway,10000000,Overseas
+232,,,,,,,,,,,,,,,2022.0,Dewald Brevis,30000000,Overseas
+233,,,,,,,,,,,,,,,2014.0,Dhawal Kulkarni,11000000,Indian
+234,,,,,,,,,,,,,,,2016.0,Dhawal Kulkarni,20000000,Indian
+235,,,,,,,,,,,,,,,2018.0,Dhawal Kulkarni,7500000,Indian
+236,,,,,,,,,,,,,,,2022.0,Dhruv Jurel,2000000,Indian
+237,,,,,,,,,,,,,,,2018.0,Dhruv Shorey,2000000,Indian
+238,,,,,,,,,,,,,,,2020.0,Digvijay Deshmukh,2000000,Indian
+239,,,,,,,,,,,,,,,2014.0,Dinesh Karthik,125000000,Indian
+240,,,,,,,,,,,,,,,2015.0,Dinesh Karthik,105000000,Indian
+241,,,,,,,,,,,,,,,2016.0,Dinesh Karthik,23000000,Indian
+242,,,,93.75,,,68.57142857142857,100.0,79.41176470588235,85.29411764705883,Dinesh Karthik,right-hand-bat,,Wicketkeeper,2018.0,Dinesh Karthik,74000000,Indian
+243,,,,70.0,,,66.66666666666666,54.761904761904766,70.73170731707317,65.85365853658537,Dinesh Karthik,right-hand-bat,,Wicketkeeper,2022.0,Dinesh Karthik,55000000,Indian
+244,,,,,,,,,,,,,,,2015.0,Dinesh Salunkhe,1000000,Indian
+245,,,,,,,,,,,,,,,2013.0,Dirk Nannes,45000000,Overseas
+246,,,,,,,,,,,,,,,2014.0,Dishant Yagnik,3000000,Indian
+247,35.66433566433567,12.878787878787879,40.51724137931034,,41.37931034482759,25.874125874125873,,,,,Dominic Drakes,left-hand-bat,left-arm-fast-medium,Bowler,2022.0,Dominic Drakes,11000000,Overseas
+248,,,,,,,,,,,,,,,2015.0,Domnic Joseph Muthuswamy,7500000,Overseas
+249,,,,,,,,,,,,,,,2022.0,Dushmanta Chameera,20000000,Overseas
+250,,,,,,,,,,,,,,,2018.0,Dushmantha Chameera,5000000,Overseas
+251,36.84210526315789,68.05555555555556,12.962962962962962,87.5,82.71604938271605,28.947368421052634,51.85185185185185,48.148148148148145,92.20779220779221,52.56410256410257,Dwaine Pretorius,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Dwaine Pretorius,5000000,Overseas
+252,53.84615384615385,85.71428571428571,68.57142857142857,7.8431372549019605,98.27586206896551,34.61538461538461,79.3103448275862,50.0,22.22222222222222,37.03703703703704,Dwayne Bravo,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Dwayne Bravo,64000000,Overseas
+253,67.10526315789474,56.94444444444444,92.5925925925926,40.27777777777778,96.29629629629629,40.78947368421053,76.5432098765432,62.96296296296296,44.15584415584416,58.97435897435898,Dwayne Bravo,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Dwayne Bravo,44000000,Overseas
+254,,,,,,,,,,,,,,,2014.0,Dwayne Smith,45000000,Overseas
+255,,,,,,,,,,,,,,,2016.0,Dwayne Smith,23000000,Overseas
+256,,,,,,,,,,,,,,,2015.0,Eklavya Dwivedi,1000000,Indian
+257,,,,,,,,,,,,,,,2016.0,Eklavya Dwivedi,10000000,Indian
+258,,,,,,,,,,,,,,,2017.0,Eklavya Dwivedi,7500000,Indian
+259,,,,64.1025641025641,,,90.69767441860465,69.76744186046511,69.04761904761905,92.85714285714286,Eoin Morgan,left-hand-bat,right-arm-fast-medium,Batsman,2015.0,Eoin Morgan,15000000,Overseas
+260,,,,44.0,,,85.18518518518519,53.70370370370371,56.60377358490566,54.71698113207547,Eoin Morgan,left-hand-bat,right-arm-fast-medium,Batsman,2017.0,Eoin Morgan,20000000,Overseas
+261,,,,79.66101694915254,,,91.93548387096774,74.19354838709677,81.9672131147541,93.44262295081968,Eoin Morgan,left-hand-bat,right-arm-fast-medium,Batsman,2020.0,Eoin Morgan,52500000,Overseas
+262,,,,90.56603773584906,,,73.68421052631578,84.21052631578947,94.64285714285714,94.64285714285714,Evin Lewis,left-hand-bat,,Batsman,2018.0,Evin Lewis,38000000,Overseas
+263,,,,93.93939393939394,,,82.6086956521739,69.56521739130434,91.17647058823529,97.05882352941177,Evin Lewis,left-hand-bat,,Batsman,2022.0,Evin Lewis,20000000,Overseas
+264,9.67741935483871,16.94915254237288,91.11111111111111,60.0,77.94117647058823,61.29032258064516,60.29411764705882,67.64705882352942,84.375,50.0,Fabian Allen,right-hand-bat,slow-left-arm-orthodox,Allrounder,2020.0,Fabian Allen,5000000,Overseas
+265,46.478873239436616,12.121212121212121,78.0,88.23529411764706,84.0,43.66197183098591,72.0,90.66666666666666,80.28169014084507,90.27777777777779,Fabian Allen,right-hand-bat,slow-left-arm-orthodox,Allrounder,2021.0,Fabian Allen,7500000,Overseas
+266,43.42105263157895,41.66666666666667,75.92592592592592,58.333333333333336,87.65432098765432,44.73684210526316,72.8395061728395,50.617283950617285,58.44155844155844,69.23076923076923,Fabian Allen,right-hand-bat,slow-left-arm-orthodox,Allrounder,2022.0,Fabian Allen,7500000,Overseas
+267,,,,77.14285714285715,,,61.53846153846154,82.05128205128204,76.92307692307693,93.58974358974359,Faf Du Plessis,right-hand-bat,legbreak,Batsman,2014.0,Faf Du Plessis,47500000,Overseas
+268,,,,92.45283018867924,,,87.71929824561403,92.98245614035088,53.57142857142857,98.21428571428571,Faf Du Plessis,right-hand-bat,legbreak,Batsman,2018.0,Faf Du Plessis,16000000,Overseas
+269,,,,,,,,,,,,,,,2022.0,Faf Du Plessis,70000000,Overseas
+270,100.0,100.0,,20.0,40.0,40.0,60.0,20.0,20.0,20.0,Farhaan Behardien,right-hand-bat,right-arm-fast-medium,Batting Allrounder,2016.0,Farhaan Behardien,3000000,Overseas
+271,,,,,,,,,,,,,,,2022.0,Fazalhaq Farooqi,5000000,Overseas
+272,,,,,,,,,,,,,,,2013.0,Fidel Edwards,15750000,Overseas
+273,,,,90.9090909090909,,,52.17391304347826,30.434782608695656,95.58823529411765,90.44117647058823,Finn Allen,right-hand-bat,,Batsman,2022.0,Finn Allen,8000000,Overseas
+274,,,,,,,,,,,,,,,2018.0,Gautam Gambhir,28000000,Indian
+275,,,,85.71428571428571,,,84.61538461538461,84.61538461538461,87.17948717948718,97.43589743589743,George Bailey,right-hand-bat,right-arm-fast-medium,Batsman,2014.0,George Bailey,32500000,Overseas
+276,23.809523809523807,,,44.44444444444444,27.083333333333332,14.285714285714285,91.66666666666666,70.83333333333334,45.0,66.66666666666666,Glenn Maxwell,right-hand-bat,right-arm-offbreak,Allrounder,2013.0,Glenn Maxwell,75000000,Overseas
+277,83.33333333333334,40.0,,86.66666666666667,91.17647058823529,66.66666666666666,94.11764705882352,61.76470588235294,87.5,81.25,Glenn Maxwell,right-hand-bat,right-arm-offbreak,Allrounder,2014.0,Glenn Maxwell,60000000,Overseas
+278,92.3076923076923,87.75510204081633,31.428571428571427,64.70588235294117,82.75862068965517,84.61538461538461,100.0,96.55172413793103,51.85185185185185,83.33333333333334,Glenn Maxwell,right-hand-bat,right-arm-offbreak,Allrounder,2018.0,Glenn Maxwell,90000000,Overseas
+279,79.03225806451613,57.6271186440678,35.55555555555556,30.0,85.29411764705883,22.58064516129032,100.0,85.29411764705883,37.5,71.875,Glenn Maxwell,right-hand-bat,right-arm-offbreak,Allrounder,2020.0,Glenn Maxwell,107500000,Overseas
+280,50.70422535211267,28.78787878787879,36.0,86.76470588235294,90.66666666666666,32.3943661971831,100.0,76.0,85.91549295774648,75.0,Glenn Maxwell,right-hand-bat,right-arm-offbreak,Allrounder,2021.0,Glenn Maxwell,142500000,Overseas
+281,,,,90.0,,,83.33333333333334,80.95238095238095,82.92682926829268,92.6829268292683,Glenn Phillips,right-hand-bat,,Wicketkeeper,2022.0,Glenn Phillips,15000000,Overseas
+282,,,,,,,,,,,,,,,2015.0,Gurinder Sandhu,17000000,Indian
+283,,,,,,,,,,,,,,,2022.0,Gurkeerat Singh Mann,5000000,Indian
+284,,,,,,,,,,,,,,,2018.0,Gurkeerat Singh Mann,7500000,Indian
+285,,,,,,,,,,,,,,,2019.0,Gurkeerat Singh Mann,5000000,Indian
+286,,,,,,,,,,,,,,,2014.0,Gurkeerat Singh Mann,13000000,Indian
+287,,,,,,,,,,,,,,,2015.0,Hanuma Vihari,1000000,Indian
+288,,,,,,,,,,,,,,,2019.0,Hanuma Vihari,20000000,Indian
+289,98.07692307692307,,,,5.714285714285714,81.73076923076923,,,,,Harbhajan Singh,right-hand-bat,right-arm-offbreak,Bowler,2018.0,Harbhajan Singh,20000000,Indian
+290,95.48872180451127,,,,4.850746268656716,82.70676691729322,,,,,Harbhajan Singh,right-hand-bat,right-arm-offbreak,Bowler,2021.0,Harbhajan Singh,20000000,Indian
+291,,,,,,,,,,,,,,,2015.0,Hardik Pandya,1000000,Indian
+292,,,,,,,,,,,,,,,2019.0,Hardus Viljoen,7500000,Overseas
+293,,,,,,,,,,,,,,,2019.0,Harpreet Brar,2000000,Indian
+294,,,,,,,,,,,,,,,2022.0,Harpreet Brar,38000000,Indian
+295,81.89655172413794,18.75,78.16091954022988,,12.393162393162394,66.37931034482759,,,,,Harry Gurney,right-hand-bat,left-arm-fast-medium,Bowler,2019.0,Harry Gurney,7500000,Overseas
+296,,,,,,,,,,,,,,,2014.0,Harshal Patel,4000000,Indian
+297,,,,,,,,,,,,,,,2018.0,Harshal Patel,2000000,Indian
+298,39.86013986013986,66.66666666666666,65.51724137931035,,83.44827586206897,46.15384615384615,,,,,Harshal Patel,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Harshal Patel,107500000,Indian
+299,,,,87.5,,,42.857142857142854,54.285714285714285,55.88235294117647,91.17647058823529,Heinrich Klaasen,right-hand-bat,,Wicketkeeper,2019.0,Heinrich Klaasen,5000000,Overseas
+300,,,,,,,,,,,,,,,2019.0,Himmat Singh,6500000,Indian
+301,,,,,,,,,,,,,,,2022.0,Hrithik Shokeen,2000000,Indian
+302,,,,,,,,,,,,,,,2014.0,HS Sharath,1000000,Indian
+303,35.57692307692308,85.1063829787234,100.0,,99.04761904761905,54.807692307692314,,,,,Imran Tahir,right-hand-bat,legbreak-googly,Bowler,2018.0,Imran Tahir,10000000,Overseas
+304,,,,,,,,,,,,,,,2014.0,Iqbal Abdullah,6500000,Indian
+305,,,,,,,,,,,,,,,2016.0,Iqbal Abdullah,1000000,Indian
+306,,,,,,,,,,,,,,,2014.0,Irfan Pathan,24000000,Indian
+307,,,,,,,,,,,,,,,2015.0,Irfan Pathan,15000000,Indian
+308,,,,,,,,,,,,,,,2016.0,Irfan Pathan,10000000,Indian
+309,,,,,,,,,,,,,,,2016.0,Ishan Kishan,3500000,Indian
+310,,,,,,,,,,,,,,,2018.0,Ishan Kishan,62000000,Indian
+311,,,,65.0,,,64.28571428571429,66.66666666666666,78.04878048780488,53.65853658536586,Ishan Kishan,left-hand-bat,,Wicketkeeper,2022.0,Ishan Kishan,152500000,Indian
+312,,,,,,,,,,,,,,,2022.0,Ishan Porel,2500000,Indian
+313,,,,,,,,,,,,,,,,Ishan Porel,2000000,Indian
+314,,,,,,,,,,,,,,,2017.0,Ishank Jaggi,1000000,Indian
+315,,,,,,,,,,,,,,,2018.0,Ishank Jaggi,2000000,Indian
+316,5.769230769230769,,42.10526315789473,,6.730769230769231,3.8461538461538463,,,,,Ishant Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Ishant Sharma,26000000,Indian
+317,8.0,,42.30769230769231,,8.666666666666668,8.0,,,,,Ishant Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Ishant Sharma,38000000,Indian
+318,4.310344827586207,,44.827586206896555,,5.982905982905983,4.310344827586207,,,,,Ishant Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2019.0,Ishant Sharma,11000000,Indian
+319,,,,,,,,,,,,,,,2014.0,Ishwar Chandra Pandey,15000000,Indian
+320,,,,,,,,,,,,,,,2016.0,Ishwar Chandra Pandey,2000000,Indian
+321,,,,,,,,,,,,,,,2020.0,Isuru Udana,5000000,Overseas
+322,,,,,,,,,,,,,,,2021.0,J Suchith,3000000,Indian
+323,,,,,,,,,,,,,,,2015.0,J Suchith,1000000,Indian
+324,,,,,,,,,,,,,,,2013.0,Jacob Oram,3750000,Overseas
+325,,,,,,,,,,,,,,,2014.0,Jacques Kallis,55000000,Overseas
+326,,,,,,,,,,,,,,,2022.0,Jagadeesha Suchith,2000000,Indian
+327,,,,,,,,,,,,,,,2014.0,Jalaj Saxena,9000000,Indian
+328,,,,,,,,,,,,,,,2015.0,Jalaj Saxena,1000000,Indian
+329,,,,,,,,,,,,,,,2019.0,Jalaj Saxena,2000000,Indian
+330,,,,,,,,,,,,,,,2021.0,Jalaj Saxena,3000000,Indian
+331,57.14285714285714,58.333333333333336,62.5,22.22222222222222,95.83333333333334,64.28571428571429,75.0,58.333333333333336,25.0,42.857142857142854,James Faulkner,right-hand-bat,left-arm-fast-medium,Allrounder,2013.0,James Faulkner,30000000,Overseas
+332,100.0,66.66666666666666,100.0,100.0,50.0,66.66666666666666,50.0,50.0,100.0,100.0,James Neesham,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2014.0,James Neesham,10000000,Overseas
+333,80.0,60.0,100.0,100.0,60.0,100.0,40.0,20.0,80.0,80.0,James Neesham,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2015.0,James Neesham,5000000,Overseas
+334,14.285714285714285,40.0,100.0,100.0,85.71428571428571,28.57142857142857,57.14285714285714,57.14285714285714,85.71428571428571,100.0,James Neesham,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2020.0,James Neesham,5000000,Overseas
+335,12.5,50.0,33.33333333333333,100.0,87.5,50.0,75.0,37.5,100.0,87.5,James Neesham,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2021.0,James Neesham,5000000,Overseas
+336,25.0,50.0,33.33333333333333,25.0,87.5,62.5,75.0,37.5,37.5,75.0,James Neesham,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2022.0,James Neesham,15000000,Overseas
+337,,,,,,,,,,,,,,,2016.0,Jaskaran Singh,1000000,Indian
+338,19.230769230769234,12.76595744680851,,,59.04761904761905,75.96153846153845,,,,,Jason Behrendorff,right-hand-bat,left-arm-fast-medium,Bowler,2018.0,Jason Behrendorff,15000000,Overseas
+339,17.482517482517483,53.03030303030303,50.86206896551724,,51.724137931034484,60.13986013986013,,,,,Jason Behrendorff,right-hand-bat,left-arm-fast-medium,Bowler,2022.0,Jason Behrendorff,7500000,Overseas
+340,,,,,,,,,,,,,,,2013.0,Jason Holder,1500000,Overseas
+341,33.33333333333333,100.0,33.33333333333333,,33.33333333333333,33.33333333333333,33.33333333333333,33.33333333333333,,,Jason Holder,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2014.0,Jason Holder,7500000,Overseas
+342,60.0,80.0,100.0,,40.0,40.0,20.0,20.0,,,Jason Holder,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2016.0,Jason Holder,7000000,Overseas
+343,72.72727272727273,45.45454545454545,54.54545454545454,45.45454545454545,90.9090909090909,63.63636363636363,100.0,63.63636363636363,63.63636363636363,72.72727272727273,Jason Holder,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2022.0,Jason Holder,87500000,Overseas
+344,,,,76.0,,,70.37037037037037,55.55555555555556,73.58490566037736,81.13207547169812,Jason Roy,right-hand-bat,,Batsman,2017.0,Jason Roy,10000000,Overseas
+345,,,,83.01886792452831,,,77.19298245614034,54.385964912280706,76.78571428571429,87.5,Jason Roy,right-hand-bat,,Batsman,2018.0,Jason Roy,15000000,Overseas
+346,,,,64.40677966101694,,,80.64516129032258,43.54838709677419,77.04918032786885,55.73770491803278,Jason Roy,right-hand-bat,,Batsman,2020.0,Jason Roy,15000000,Overseas
+347,,,,36.36363636363637,,,88.40579710144928,42.028985507246375,60.29411764705882,32.35294117647059,Jason Roy,right-hand-bat,,Batsman,2022.0,Jason Roy,20000000,Overseas
+348,,,,,,,,,,,,,,,2014.0,Jasprit Bumrah,12000000,Indian
+349,,,,,,,,,,,,,,,2018.0,Jatin Saxena,2000000,Indian
+350,,,,,,,,,,,,,,,2018.0,Javon Searless,3000000,Indian
+351,,,,,,,,,,,,,,,2014.0,Jayant Yadav,1000000,Indian
+352,,,,,,,,,,,,,,,2018.0,Jayant Yadav,5000000,Indian
+353,,,,,,,,,,,,,,,2022.0,Jayant Yadav,17000000,Indian
+354,,,,,,,,,,,,,,,2016.0,Jaydev Shah,2000000,Indian
+355,,,,,,,,,,,,,,,2013.0,Jaydev Unadkat,39375000,Indian
+356,,,,,,,,,,,,,,,2014.0,Jaydev Unadkat,28000000,Indian
+357,,,,,,,,,,,,,,,2015.0,Jaydev Unadkat,11000000,Indian
+358,,,,,,,,,,,,,,,2016.0,Jaydev Unadkat,16000000,Indian
+359,,,,,,,,,,,,,,,2017.0,Jaydev Unadkat,3000000,Indian
+360,48.07692307692308,87.2340425531915,64.93506493506493,,70.47619047619048,62.980769230769226,,,,,Jaydev Unadkat,right-hand-bat,left-arm-fast-medium,Bowler,2018.0,Jaydev Unadkat,115000000,Indian
+361,41.810344827586206,85.57692307692307,63.2183908045977,,68.37606837606837,66.37931034482759,,,,,Jaydev Unadkat,right-hand-bat,left-arm-fast-medium,Bowler,2019.0,Jaydev Unadkat,84000000,Indian
+362,45.0,88.88888888888889,68.08510638297872,,63.63636363636363,68.33333333333333,,,,,Jaydev Unadkat,right-hand-bat,left-arm-fast-medium,Bowler,2020.0,Jaydev Unadkat,30000000,Indian
+363,40.55944055944056,87.12121212121212,67.24137931034483,,53.103448275862064,58.39160839160839,,,,,Jaydev Unadkat,right-hand-bat,left-arm-fast-medium,Bowler,2022.0,Jaydev Unadkat,13000000,Indian
+364,70.0,16.0,,36.666666666666664,55.88235294117647,46.666666666666664,97.05882352941177,100.0,34.375,46.875,Jean-Paul Duminy,left-hand-bat,right-arm-offbreak,Allrounder,2014.0,Jean-Paul Duminy,22000000,Overseas
+365,86.53846153846155,20.408163265306122,,33.33333333333333,74.13793103448276,42.30769230769231,98.27586206896551,94.82758620689656,42.592592592592595,61.111111111111114,Jean-Paul Duminy,left-hand-bat,right-arm-offbreak,Allrounder,2018.0,Jean-Paul Duminy,10000000,Overseas
+366,,,,,,,,,,,,,,,2013.0,Jeevan Mendis,3750000,Overseas
+367,,,,,,,,,,,,,,,2013.0,Jesse Ryder,19500000,Overseas
+368,57.14285714285714,33.60655737704918,80.76923076923077,,44.02985074626866,66.16541353383458,,,,,Jhye Richardson,right-hand-bat,right-arm-fast,Bowler,2021.0,Jhye Richardson,140000000,Overseas
+369,,,,,,,,,,,,,,,2016.0,Jitesh Sharma,1000000,Indian
+370,,,,,,,,,,,,,,,2022.0,Jitesh Sharma,2000000,Indian
+371,53.44827586206896,66.82692307692307,13.793103448275861,,31.62393162393162,18.96551724137931,,,,,Joe Denly,right-hand-bat,legbreak,Bowler,2019.0,Joe Denly,10000000,Overseas
+372,,,,,,,,,,,,,,,2016.0,Joel Paris,3000000,Overseas
+373,,,,,,,,,,,,,,,2018.0,Jofra Archer,72000000,Overseas
+374,75.52447552447552,63.63636363636363,70.6896551724138,,64.82758620689654,89.86013986013987,,,,,Jofra Archer,right-hand-bat,right-arm-fast,Bowler,2022.0,Jofra Archer,80000000,Overseas
+375,,,,,,,,,,,,,,,2013.0,Johan Botha,33750000,Overseas
+376,,,,,,,,,,,,,,,2014.0,John Hastings,5000000,Overseas
+377,41.46341463414634,11.11111111111111,8.0,2.7777777777777777,46.51162790697674,90.2439024390244,32.55813953488372,30.23255813953488,17.5,20.0,John Hastings,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,John Hastings,13000000,Overseas
+378,,,,93.75,,,82.85714285714286,77.14285714285715,88.23529411764706,85.29411764705883,Jonny Bairstow,right-hand-bat,right-arm-fast-medium,Wicketkeeper,2019.0,Jonny Bairstow,22000000,Overseas
+379,,,,30.0,,,90.47619047619048,88.09523809523809,29.268292682926827,56.09756097560976,Jonny Bairstow,right-hand-bat,right-arm-fast-medium,Wicketkeeper,2022.0,Jonny Bairstow,67500000,Overseas
+380,,,,45.0,,,100.0,90.9090909090909,52.38095238095239,71.42857142857143,Jos Buttler,right-hand-bat,,Wicketkeeper,2016.0,Jos Buttler,38000000,Overseas
+381,,,,50.0,,,100.0,62.857142857142854,47.05882352941176,50.0,Jos Buttler,right-hand-bat,,Wicketkeeper,2018.0,Jos Buttler,44000000,Overseas
+382,32.69230769230769,84.78260869565217,13.157894736842104,,76.92307692307693,97.11538461538461,,,,,Josh Hazlewood,left-hand-bat,right-arm-fast-medium,Bowler,2014.0,Josh Hazlewood,5000000,Overseas
+383,52.5,4.62962962962963,3.1914893617021276,,61.15702479338842,89.16666666666667,,,,,Josh Hazlewood,left-hand-bat,right-arm-fast-medium,Bowler,2020.0,Josh Hazlewood,20000000,Overseas
+384,28.671328671328673,56.81818181818182,46.55172413793103,,91.72413793103448,73.42657342657343,,,,,Josh Hazlewood,left-hand-bat,right-arm-fast-medium,Bowler,2022.0,Josh Hazlewood,77500000,Overseas
+385,,,,,,,,,,,,,,,2020.0,Joshua Philippe,2000000,Overseas
+386,,,,,,,,,,,,,,,2015.0,Juan Theron,3000000,Overseas
+387,,,,,,,,,,,,,,,2022.0,Krishnappa Gowtham,9000000,Indian
+388,,,,,,,,,,,,,,,2021.0,K.Bhagath Varma,2000000,Indian
+389,,,,,,,,,,,,,,,2022.0,K.Bhagath Varma,2000000,Indian
+390,,,,,,,,,,,,,,,2021.0,K.C Cariappa,2000000,Indian
+391,,,,,,,,,,,,,,,2022.0,K.C Cariappa,3000000,Indian
+392,,,,,,,,,,,,,,,2015.0,K.C. Cariappa,24000000,Indian
+393,,,,,,,,,,,,,,,2016.0,K.C. Cariappa,8000000,Indian
+394,,,,,,,,,,,,,,,2015.0,K.K. Jiyaz,1000000,Indian
+395,,,,,,,,,,,,,,,2022.0,K.M. Asif,2000000,Indian
+396,,,,,,,,,,,,,,,2022.0,K.S. Bharat,20000000,Indian
+397,51.64835164835166,57.692307692307686,65.07936507936508,,95.65217391304348,73.62637362637363,,,,,Kagiso Rabada,left-hand-bat,right-arm-fast,Bowler,2017.0,Kagiso Rabada,50000000,Overseas
+398,6.730769230769231,67.02127659574468,66.23376623376623,,92.38095238095238,19.230769230769234,,,,,Kagiso Rabada,left-hand-bat,right-arm-fast,Bowler,2018.0,Kagiso Rabada,42000000,Overseas
+399,79.72027972027972,10.606060606060606,64.65517241379311,,93.79310344827586,88.11188811188812,,,,,Kagiso Rabada,left-hand-bat,right-arm-fast,Bowler,2022.0,Kagiso Rabada,92500000,Overseas
+400,,,,,,,,,,,,,,,2018.0,Kamlesh Nagarkoti,32000000,Indian
+401,,,,,,,,,,,,,,,2022.0,Kamlesh Nagarkoti,11000000,Indian
+402,,,,,,,,,,,,,,,2013.0,Kane Richardson,52500000,Overseas
+403,19.230769230769234,,84.21052631578947,,6.730769230769231,5.769230769230769,,,,,Kane Richardson,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Kane Richardson,10000000,Overseas
+404,33.33333333333333,,55.769230769230774,,8.666666666666668,12.0,,,,,Kane Richardson,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Kane Richardson,20000000,Overseas
+405,85.0,41.66666666666667,81.91489361702128,,68.59504132231406,58.333333333333336,,,,,Kane Richardson,right-hand-bat,right-arm-fast-medium,Bowler,2020.0,Kane Richardson,40000000,Overseas
+406,,,,84.61538461538461,,,76.74418604651163,81.3953488372093,71.42857142857143,85.71428571428571,Kane Williamson,right-hand-bat,right-arm-offbreak,Batsman,2015.0,Kane Williamson,6000000,Overseas
+407,,,,24.528301886792452,,,89.47368421052632,50.877192982456144,33.92857142857143,35.714285714285715,Kane Williamson,right-hand-bat,right-arm-offbreak,Batsman,2018.0,Kane Williamson,30000000,Overseas
+408,,,,,,,,,,,,,,,2018.0,Kanishk Seth,2000000,Indian
+409,,,,,,,,,,,,,,,2022.0,Karan Sharma,2000000,Indian
+410,,,,,,,,,,,,,,,2014.0,Karanveer Singh,1000000,Indian
+411,82.6923076923077,16.304347826086957,15.789473684210526,,14.423076923076922,78.84615384615384,,,,,Karn Sharma,left-hand-bat,legbreak-googly,Bowler,2014.0,Karn Sharma,37500000,Indian
+412,86.81318681318682,19.871794871794872,9.523809523809524,,16.847826086956523,84.61538461538461,,,,,Karn Sharma,left-hand-bat,legbreak-googly,Bowler,2017.0,Karn Sharma,32000000,Indian
+413,87.5,17.5531914893617,9.090909090909092,,11.904761904761903,84.61538461538461,,,,,Karn Sharma,left-hand-bat,legbreak-googly,Bowler,2018.0,Karn Sharma,50000000,Indian
+414,88.11188811188812,17.045454545454543,13.793103448275861,,10.0,82.51748251748252,,,,,Karn Sharma,left-hand-bat,legbreak-googly,Bowler,2022.0,Karn Sharma,5000000,Indian
+415,,,,,,,,,,,,,,,2020.0,Kartik Tyagi,13000000,Indian
+416,,,,,,,,,,,,,,,2022.0,Kartik Tyagi,40000000,Indian
+417,,,,,,,,,,,,,,,2014.0,Karun Nair,7500000,Indian
+418,,,,,,,,,,,,,,,2016.0,Karun Nair,40000000,Indian
+419,,,,,,,,,,,,,,,2018.0,Karun Nair,56000000,Indian
+420,,,,,,,,,,,,,,,2021.0,Karun Nair,5000000,Indian
+421,,,,,,,,,,,,,,,2022.0,Karun Nair,14000000,Indian
+422,,,,,,,,,,,,,,,2014.0,Kedar Jadhav,20000000,Indian
+423,,,,15.686274509803921,8.620689655172415,,31.03448275862069,46.55172413793103,46.2962962962963,24.074074074074073,Kedar Jadhav,right-hand-bat,right-arm-offbreak,Allrounder,2018.0,Kedar Jadhav,78000000,Indian
+424,,,,16.176470588235293,6.666666666666667,,25.333333333333336,40.0,47.88732394366197,16.666666666666664,Kedar Jadhav,right-hand-bat,right-arm-offbreak,Allrounder,2021.0,Kedar Jadhav,20000000,Indian
+425,33.89830508474576,50.90909090909091,22.5,62.06896551724138,90.76923076923077,23.728813559322035,69.23076923076923,30.76923076923077,12.903225806451612,3.225806451612903,Keemo Paul,right-hand-bat,right-arm-fast-medium,Allrounder,2019.0,Keemo Paul,5000000,Overseas
+426,,,,,,,,,,,,,,,2014.0,Kevin Pietersen,90000000,Overseas
+427,,,,,,,,,,,,,,,2015.0,Kevin Pietersen,20000000,Overseas
+428,,,,,,,,,,,,,,,2016.0,Kevin Pietersen,35000000,Overseas
+429,,,,,,,,,,,,,,,2014.0,Kevon Cooper,3000000,Overseas
+430,33.33333333333333,40.0,66.66666666666666,16.666666666666664,100.0,66.66666666666666,66.66666666666666,50.0,33.33333333333333,16.666666666666664,Kieron Pollard,right-hand-bat,right-arm-fast-medium,Batting Allrounder,2018.0,Kieron Pollard,54000000,Overseas
+431,,,,,,,,,,,,,,,2016.0,Kishore Pramod Kamath,14000000,Indian
+432,,,,,,,,,,,,,,,2014.0,KL Rahul,10000000,Indian
+433,,,,75.0,,,88.57142857142857,80.0,55.88235294117647,70.58823529411765,KL Rahul,right-hand-bat,,Wicketkeeper,2018.0,KL Rahul,110000000,Indian
+434,,,,,,,,,,,,,,,2015.0,Kona Srikar Bharat,1000000,Indian
+435,,,,,,,,,,,,,,,2021.0,Kona Srikar Bharat,2000000,Indian
+436,,,,,,,,,,,,,,,2017.0,Krishnappa Gowtham,20000000,Indian
+437,,,,,,,,,,,,,,,2018.0,Krishnappa Gowtham,62000000,Indian
+438,,,,,,,,,,,,,,,2021.0,Krishnappa Gowtham,92500000,Indian
+439,,,,,,,,,,,,,,,2014.0,Krismar Santokie,3000000,Overseas
+440,,,,,,,,,,,,,,,2016.0,Krunal Pandya,20000000,Indian
+441,55.769230769230774,33.6734693877551,,90.19607843137256,65.51724137931035,53.84615384615385,36.206896551724135,79.3103448275862,37.03703703703704,98.14814814814815,Krunal Pandya,left-hand-bat,slow-left-arm-orthodox,Allrounder,2018.0,Krunal Pandya,88000000,Indian
+442,60.526315789473685,8.333333333333332,85.18518518518519,47.22222222222222,74.07407407407408,27.631578947368425,56.79012345679012,80.24691358024691,46.75324675324675,61.53846153846154,Krunal Pandya,left-hand-bat,slow-left-arm-orthodox,Allrounder,2022.0,Krunal Pandya,82500000,Indian
+443,,,,,,,,,,,,,,,2018.0,Kshitiz Sharma,2000000,Indian
+444,,,,,,,,,,,,,,,2022.0,Kuldeep Sen,2000000,Indian
+445,,,,,,,,,,,,,,,2014.0,Kuldeep Yadav,4000000,Indian
+446,90.38461538461539,84.04255319148936,11.688311688311687,,90.47619047619048,94.23076923076923,,,,,Kuldeep Yadav,left-hand-bat,left-arm-chinaman,Bowler,2018.0,Kuldeep Yadav,58000000,Indian
+447,100.0,96.21212121212122,16.379310344827587,,84.82758620689656,100.0,,,,,Kuldeep Yadav,left-hand-bat,left-arm-chinaman,Bowler,2022.0,Kuldeep Yadav,20000000,Indian
+448,,,,,,,,,,,,,,,2021.0,Kuldip Yadav,2000000,Indian
+449,,,,,,,,,,,,,,,2022.0,Kuldip Yadav,2000000,Indian
+450,,,,,,,,,,,,,,,2017.0,Kulwant Khejroliya,1000000,Indian
+451,,,,,,,,,,,,,,,2018.0,Kulwant Khejroliya,8500000,Indian
+452,,,,,,,,,,,,,,,2013.0,Kusal Janith Perera,1500000,Indian
+453,,,,10.256410256410255,,,16.27906976744186,23.25581395348837,16.666666666666664,26.190476190476193,Kyle Abbott,right-hand-bat,right-arm-fast-medium,Batsman,2015.0,Kyle Abbott,3000000,Overseas
+454,,,,45.65217391304348,,,22.448979591836736,14.285714285714285,31.25,60.416666666666664,Kyle Abbott,right-hand-bat,right-arm-fast-medium,Batsman,2016.0,Kyle Abbott,21000000,Overseas
+455,21.052631578947366,0.819672131147541,12.5,,39.55223880597015,33.08270676691729,,,,,Kyle Jamieson,right-hand-bat,right-arm-fast-medium,Bowler,2021.0,Kyle Jamieson,150000000,Overseas
+456,37.5,,,100.0,18.75,87.5,87.5,50.0,100.0,62.5,Kyle Mayers,left-hand-bat,right-arm-fast-medium,Batting Allrounder,2022.0,Kyle Mayers,5000000,Overseas
+457,,,,,,,,,,,,,,,2014.0,Lakshmipathy Balaji,18000000,Indian
+458,,,,,,,,,,,,,,,2020.0,Lalit Yadav,2000000,Indian
+459,,,,,,,,,,,,,,,2022.0,Lalit Yadav,6500000,Indian
+460,,,,,,,,,,,,,,,2019.0,Lasith Malinga,20000000,Overseas
+461,,,,,,,,,,,,,,,2014.0,Laxmi Ratan Shukla,15000000,Indian
+462,,,,,,,,,,,,,,,2015.0,Laxmi Ratan Shukla,3000000,Indian
+463,,,,1.7241379310344827,8.461538461538462,,20.0,33.07692307692307,17.741935483870968,20.967741935483872,Liam Livingstone,right-hand-bat,legbreak,Allrounder,2019.0,Liam Livingstone,5000000,Overseas
+464,90.14084507042254,90.15151515151516,,50.0,57.333333333333336,78.87323943661971,45.33333333333333,52.0,78.87323943661971,83.33333333333334,Liam Livingstone,right-hand-bat,legbreak,Allrounder,2021.0,Liam Livingstone,7500000,Overseas
+465,18.421052631578945,27.77777777777778,,55.55555555555556,69.1358024691358,53.94736842105263,71.60493827160494,60.49382716049383,51.94805194805194,73.07692307692307,Liam Livingstone,right-hand-bat,legbreak,Allrounder,2022.0,Liam Livingstone,115000000,Overseas
+466,67.03296703296702,93.58974358974359,95.23809523809523,,43.47826086956522,87.36263736263736,,,,,Lockie Ferguson,right-hand-bat,right-arm-fast,Bowler,2017.0,Lockie Ferguson,5000000,Overseas
+467,77.58620689655173,53.84615384615385,86.20689655172413,,69.23076923076923,89.65517241379311,,,,,Lockie Ferguson,right-hand-bat,right-arm-fast,Bowler,2019.0,Lockie Ferguson,16000000,Overseas
+468,51.048951048951054,50.75757575757576,24.137931034482758,,82.75862068965517,78.32167832167832,,,,,Lockie Ferguson,right-hand-bat,right-arm-fast,Bowler,2022.0,Lockie Ferguson,100000000,Overseas
+469,,,,,,,,,,,,,,,2013.0,Luke Pomersbach,22500000,Overseas
+470,,,,,,,,,,,,,,,2021.0,Lukman Hussain Meriwala,2000000,Indian
+471,36.53846153846153,95.74468085106383,,,20.0,80.28846153846155,,,,,Lungisani Ngidi,right-hand-bat,right-arm-fast,Bowler,2018.0,Lungisani Ngidi,5000000,Overseas
+472,,,,,,,,,,,,,,,2022.0,Lungisani Ngidi,5000000,Overseas
+473,,,,,,,,,,,,,,,2022.0,Luvnith Sisodia,2000000,Indian
+474,,,,,,,,,,,,,,,2020.0,M Siddharth,2000000,Indian
+475,,,,,,,,,,,,,,,2021.0,M Siddharth,2000000,Indian
+476,,,,,,,,,,,,,,,2016.0,M. Ashwin,45000000,Indian
+477,,,,,,,,,,,,,,,2017.0,M. Ashwin,10000000,Indian
+478,,,,,,,,,,,,,,,2018.0,M. Ashwin,22000000,Indian
+479,,,,,,,,,,,,,,,2019.0,M. Ashwin,2000000,Indian
+480,,,,,,,,,,,,,,,2021.0,M. Harisankar Reddy,2000000,Indian
+481,100.0,50.0,,,25.0,100.0,18.75,18.75,,,Washington Sundar,left-hand-bat,right-arm-offbreak,Bowling Allrounder,2018.0,Washington Sundar,32000000,Indian
+482,,,,,,,,,,,,,,,2022.0,Maheesh Theekshana,7000000,Overseas
+483,,,,,,,,,,,,,,,2016.0,Mahipal Lomror,1000000,Indian
+484,,,,,,,,,,,,,,,2018.0,Mahipal Lomror,2000000,Indian
+485,,,,,,,,,,,,,,,2022.0,Mahipal Lomror,9500000,Indian
+486,,,,,,,,,,,,,,,2016.0,Manan Ajay Sharma,1000000,Indian
+487,,,,,,,,,,,,,,,2018.0,Manan Vohra,11000000,Indian
+488,,,,,,,,,,,,,,,2019.0,Manan Vohra,2000000,Indian
+489,,,,,,,,,,,,,,,2022.0,Manan Vohra,2000000,Indian
+490,,,,,,,,,,,,,,,2014.0,Mandeep Hardev Singh,8000000,Indian
+491,,,,,,,,,,,,,,,2018.0,Mandeep Singh,14000000,Indian
+492,,,,,,,,,,,,,,,2022.0,Mandeep Singh,11000000,Indian
+493,,,,,,,,,,,,,,,2014.0,Manish Pandey,17000000,Indian
+494,,,,22.641509433962266,,,57.89473684210527,98.24561403508771,23.214285714285715,44.642857142857146,Manish Pandey,right-hand-bat,right-arm-fast-medium,Batsman,2018.0,Manish Pandey,110000000,Indian
+495,,,,19.696969696969695,,,59.42028985507246,100.0,20.588235294117645,52.94117647058824,Manish Pandey,right-hand-bat,right-arm-fast-medium,Batsman,2022.0,Manish Pandey,46000000,Indian
+496,,,,,,,,,,,,,,,2018.0,Manjot Kalra,2000000,Indian
+497,,,,,,,,,,,,,,,2014.0,Manoj Tiwary,28000000,Indian
+498,,,,,,,,,,,,,,,2017.0,Manoj Tiwary,5000000,Indian
+499,,,,,,,,,,,,,,,2018.0,Manoj Tiwary,10000000,Indian
+500,,,,,,,,,,,,,,,2013.0,Manpreet Gony,37500000,Indian
+501,,,,,,,,,,,,,,,2017.0,Manpreet Gony,6000000,Indian
+502,,,,,,,,,,,,,,,2014.0,Manprit Juneja,1000000,Indian
+503,,,,,,,,,,,,,,,2014.0,Manvinder Bisla,6000000,Indian
+504,,,,,,,,,,,,,,,2018.0,Manzoor Dar,2000000,Indian
+505,,,,,,,,,,,,,,,2014.0,Marchant De Lange,3000000,Overseas
+506,,,,,,,,,,,,,,,2021.0,Marco Jansen,2000000,Overseas
+507,21.052631578947366,26.38888888888889,,26.38888888888889,14.814814814814813,76.31578947368422,16.049382716049383,49.382716049382715,94.8051948051948,10.256410256410255,Marco Jansen,right-hand-bat,left-arm-fast,Allrounder,2022.0,Marco Jansen,42000000,Overseas
+508,8.333333333333332,,,25.0,13.750000000000002,13.88888888888889,30.0,47.5,35.13513513513514,43.24324324324324,Marcus Stoinis,right-hand-bat,right-arm-fast-medium,Allrounder,2015.0,Marcus Stoinis,2500000,Overseas
+509,9.75609756097561,,,25.0,9.30232558139535,17.073170731707318,25.581395348837212,48.837209302325576,27.500000000000004,47.5,Marcus Stoinis,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Marcus Stoinis,5500000,Overseas
+510,71.15384615384616,28.57142857142857,80.0,58.82352941176471,62.06896551724138,59.61538461538461,60.3448275862069,60.3448275862069,57.407407407407405,59.25925925925925,Marcus Stoinis,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Marcus Stoinis,62000000,Overseas
+511,66.12903225806451,30.508474576271187,80.0,36.666666666666664,61.76470588235294,66.12903225806451,77.94117647058823,95.58823529411765,35.9375,73.4375,Marcus Stoinis,right-hand-bat,right-arm-fast-medium,Allrounder,2020.0,Marcus Stoinis,48000000,Overseas
+512,18.269230769230766,62.76595744680851,19.480519480519483,,71.42857142857143,82.6923076923077,,,,,Mark Wood,right-hand-bat,right-arm-fast,Bowler,2018.0,Mark Wood,15000000,Overseas
+513,68.53146853146853,81.81818181818183,94.82758620689656,,85.51724137931035,94.4055944055944,,,,,Mark Wood,right-hand-bat,right-arm-fast,Bowler,2022.0,Mark Wood,75000000,Overseas
+514,,,,42.0,,,81.48148148148148,31.48148148148148,79.24528301886792,28.30188679245283,Martin Guptill,right-hand-bat,right-arm-offbreak,Batsman,2017.0,Martin Guptill,5000000,Overseas
+515,,,,94.73684210526315,,,90.1639344262295,77.04918032786885,85.0,96.66666666666667,Martin Guptill,right-hand-bat,right-arm-offbreak,Batsman,2019.0,Martin Guptill,10000000,Overseas
+516,,,,,,,,,,,,,,,2014.0,Matt Henry,3000000,Overseas
+517,16.483516483516482,21.794871794871796,33.33333333333333,,30.434782608695656,36.26373626373626,,,,,Matt Henry,right-hand-bat,right-arm-fast-medium,Bowler,2017.0,Matt Henry,5000000,Overseas
+518,,,,87.5,,,78.57142857142857,95.23809523809523,65.85365853658537,85.36585365853658,Matthew Wade,left-hand-bat,right-arm-fast-medium,Wicketkeeper,2022.0,Matthew Wade,24000000,Overseas
+519,,,,,,,,,,,,,,,2014.0,Mayank Agarwal,16000000,Indian
+520,,,,,,,,,,,,,,,2018.0,Mayank Agarwal,10000000,Indian
+521,,,,,,,,,,,,,,,2018.0,Mayank Dagar,2000000,Indian
+522,,,,,,,,,,,,,,,2018.0,Mayank Markande,2000000,Indian
+523,74.12587412587412,,87.06896551724138,,4.827586206896552,14.335664335664337,,,,,Mayank Markande,right-hand-bat,legbreak,Bowler,2022.0,Mayank Markande,6500000,Indian
+524,,,,,,,,,,,,,,,2022.0,Mayank Yadav,2000000,Indian
+525,,,,,,,,,,,,,,,2013.0,Michael Clarke,30000000,Overseas
+526,,,,,,,,,,,,,,,2014.0,Michael Hussey,50000000,Overseas
+527,,,,,,,,,,,,,,,2015.0,Michael Hussey,15000000,Overseas
+528,,,,,,,,,,,,,,,2018.0,Midhun S,2000000,Indian
+529,,,,,,,,,,,,,,,2014.0,Milind Kumar,1000000,Indian
+530,,,,,,,,,,,,,,,2019.0,Milind Kumar,2000000,Indian
+531,,,,,,,,,,,,,,,2017.0,Milind Tandon,1000000,Indian
+532,38.46153846153847,19.565217391304348,10.526315789473683,,32.69230769230769,92.3076923076923,,,,,Mitchell Johnson,left-hand-bat,left-arm-fast,Bowler,2014.0,Mitchell Johnson,65000000,Overseas
+533,38.46153846153847,23.076923076923077,4.761904761904762,,29.347826086956523,96.7032967032967,,,,,Mitchell Johnson,left-hand-bat,left-arm-fast,Bowler,2017.0,Mitchell Johnson,20000000,Overseas
+534,41.34615384615385,21.27659574468085,6.493506493506493,,23.809523809523807,99.03846153846155,,,,,Mitchell Johnson,left-hand-bat,left-arm-fast,Bowler,2018.0,Mitchell Johnson,20000000,Overseas
+535,70.73170731707317,66.66666666666666,36.0,27.77777777777778,53.48837209302325,87.8048780487805,58.139534883720934,83.72093023255815,40.0,67.5,Mitchell Marsh,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Mitchell Marsh,48000000,Overseas
+536,98.38709677419355,98.30508474576271,51.11111111111111,10.0,54.41176470588235,98.38709677419355,73.52941176470588,82.35294117647058,26.5625,37.5,Mitchell Marsh,right-hand-bat,right-arm-fast-medium,Allrounder,2020.0,Mitchell Marsh,20000000,Overseas
+537,78.94736842105263,76.38888888888889,42.592592592592595,69.44444444444444,72.8395061728395,80.26315789473685,96.29629629629629,79.01234567901234,70.12987012987013,75.64102564102564,Mitchell Marsh,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Mitchell Marsh,65000000,Overseas
+538,47.61904761904761,66.66666666666666,63.63636363636363,,93.65079365079364,85.71428571428571,,,,,Mitchell McClenaghan,left-hand-bat,left-arm-fast-medium,Bowler,2015.0,Mitchell McClenaghan,3000000,Overseas
+539,51.92307692307693,30.612244897959183,57.14285714285714,49.01960784313725,91.37931034482759,75.0,65.51724137931035,32.758620689655174,88.88888888888889,50.0,Mitchell Santner,left-hand-bat,slow-left-arm-orthodox,Allrounder,2018.0,Mitchell Santner,5000000,Overseas
+540,86.8421052631579,69.44444444444444,37.03703703703704,11.11111111111111,100.0,85.52631578947368,75.30864197530865,45.67901234567901,23.376623376623375,34.61538461538461,Mitchell Santner,left-hand-bat,slow-left-arm-orthodox,Allrounder,2022.0,Mitchell Santner,19000000,Overseas
+541,48.07692307692308,57.608695652173914,47.368421052631575,,88.46153846153845,88.46153846153845,,,,,Mitchell Starc,left-hand-bat,left-arm-fast,Bowler,2014.0,Mitchell Starc,50000000,Overseas
+542,88.46153846153845,40.42553191489361,35.064935064935064,,75.23809523809524,97.11538461538461,,,,,Mitchell Starc,left-hand-bat,left-arm-fast,Bowler,2018.0,Mitchell Starc,94000000,Overseas
+543,,,,,,,,,,,,,,,2014.0,Mithun Manhas,3000000,Indian
+544,9.615384615384617,6.122448979591836,5.714285714285714,31.372549019607842,77.58620689655173,7.6923076923076925,74.13793103448276,31.03448275862069,64.81481481481481,20.37037037037037,Moeen Ali,left-hand-bat,right-arm-offbreak,Allrounder,2018.0,Moeen Ali,17000000,Overseas
+545,84.50704225352112,57.57575757575758,8.0,64.70588235294117,86.66666666666667,98.59154929577466,82.66666666666667,98.66666666666667,61.97183098591549,79.16666666666666,Moeen Ali,left-hand-bat,right-arm-offbreak,Allrounder,2021.0,Moeen Ali,70000000,Overseas
+546,,,,,,,,,,,,,,,2017.0,Mohammad Nabi,3000000,Overseas
+547,,,,,,,,,,,,,,,2018.0,Mohammad Nabi,10000000,Overseas
+548,,,,,,,,,,,,,,,2022.0,Mohammad Nabi,10000000,Overseas
+549,11.538461538461538,79.34782608695652,21.052631578947366,,55.769230769230774,84.61538461538461,,,,,Mohammad Shami,right-hand-bat,right-arm-fast,Bowler,2014.0,Mohammad Shami,42500000,Indian
+550,3.8461538461538463,69.14893617021278,49.35064935064935,,67.61904761904762,5.769230769230769,,,,,Mohammad Shami,right-hand-bat,right-arm-fast,Bowler,2018.0,Mohammad Shami,30000000,Indian
+551,97.41379310344827,89.42307692307693,96.55172413793103,,70.08547008547008,95.6896551724138,,,,,Mohammad Shami,right-hand-bat,right-arm-fast,Bowler,2019.0,Mohammad Shami,48000000,Indian
+552,,,,,,,,,,,,,,,2022.0,Mohammad Shami,62500000,Indian
+553,,,,,,,,,,,,,,,2021.0,Mohammed Azharudeen,2000000,Indian
+554,8.791208791208792,26.923076923076923,7.936507936507936,,20.108695652173914,6.043956043956044,,,,,Mohammed Siraj,right-hand-bat,right-arm-fast-medium,Bowler,2017.0,Mohammed Siraj,26000000,Indian
+555,8.653846153846153,28.723404255319153,36.36363636363637,,30.476190476190478,28.846153846153843,,,,,Mohammed Siraj,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Mohammed Siraj,26000000,Indian
+556,,,,,,,,,,,,,,,2022.0,Mohd. Arshad Khan,2000000,Indian
+557,15.384615384615385,13.043478260869565,7.894736842105263,,30.76923076923077,76.92307692307693,,,,,Mohit Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Mohit Sharma,20000000,Indian
+558,22.666666666666664,22.22222222222222,13.461538461538462,,32.0,28.000000000000004,,,,,Mohit Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Mohit Sharma,65000000,Indian
+559,22.115384615384613,14.893617021276595,18.181818181818183,,21.904761904761905,25.0,,,,,Mohit Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Mohit Sharma,24000000,Indian
+560,19.82758620689655,15.384615384615385,19.54022988505747,,22.22222222222222,24.137931034482758,,,,,Mohit Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2019.0,Mohit Sharma,50000000,Indian
+561,20.0,19.444444444444446,21.27659574468085,,19.834710743801654,26.666666666666668,,,,,Mohit Sharma,right-hand-bat,right-arm-fast-medium,Bowler,2020.0,Mohit Sharma,5000000,Indian
+562,,,,,,,,,,,,,,,2018.0,Mohsin Khan,2000000,Indian
+563,,,,,,,,,,,,,,,2020.0,Mohsin Khan,2000000,Indian
+564,,,,,,,,,,,,,,,2022.0,Mohsin Khan,2000000,Indian
+565,19.047619047619047,,,11.11111111111111,27.083333333333332,35.714285714285715,41.66666666666667,50.0,15.0,19.047619047619047,Moises Henriques,right-hand-bat,right-arm-fast-medium,Allrounder,2013.0,Moises Henriques,22500000,Overseas
+566,86.66666666666667,88.0,,10.0,61.76470588235294,90.0,29.411764705882355,11.76470588235294,9.375,21.875,Moises Henriques,right-hand-bat,right-arm-fast-medium,Allrounder,2014.0,Moises Henriques,10000000,Overseas
+567,62.71186440677966,80.0,,27.586206896551722,35.38461538461539,74.57627118644068,46.15384615384615,95.38461538461539,62.903225806451616,37.096774193548384,Moises Henriques,right-hand-bat,right-arm-fast-medium,Allrounder,2019.0,Moises Henriques,10000000,Overseas
+568,87.32394366197182,98.48484848484848,62.0,19.11764705882353,53.333333333333336,47.88732394366197,78.66666666666666,56.00000000000001,28.169014084507044,50.0,Moises Henriques,right-hand-bat,right-arm-fast-medium,Allrounder,2021.0,Moises Henriques,42000000,Overseas
+569,,,,,,,,,,,,,,,2018.0,Monu Singh,2000000,Indian
+570,1.9230769230769231,,26.31578947368421,,6.730769230769231,13.461538461538462,,,,,Morne Morkel,left-hand-bat,right-arm-fast,Bowler,2014.0,Morne Morkel,28000000,Overseas
+571,,,,,,,,,,,,,,,2018.0,Mujeeb Zadran,40000000,Overseas
+572,,,,,,,,,,,,,,,2021.0,Mujeeb Zadran,15000000,Overseas
+573,,,,,,,,,,,,,,,2022.0,Mukesh Choudhary,2000000,Indian
+574,,,,,,,,,,,,,,,2017.0,Munaf Patel,3000000,Indian
+575,,,,,,,,,,,,,,,2014.0,Murali Kartik,10000000,Indian
+576,,,,,,,,,,,,,,,2014.0,Murali Vijay,50000000,Indian
+577,,,,,,,,,,,,,,,2015.0,Murali Vijay,30000000,Indian
+578,,,,,,,,,,,,,,,2018.0,Murali Vijay,20000000,Indian
+579,,,,,,,,,,,,,,,2022.0,Murugan Ashwin,16000000,Indian
+580,44.0,71.42857142857143,46.15384615384615,,76.0,58.666666666666664,,,,,Mustafizur Rahman,left-hand-bat,left-arm-fast-medium,Bowler,2016.0,Mustafizur Rahman,14000000,Overseas
+581,26.923076923076923,58.51063829787234,71.42857142857143,,94.28571428571428,36.53846153846153,,,,,Mustafizur Rahman,left-hand-bat,left-arm-fast-medium,Bowler,2018.0,Mustafizur Rahman,22000000,Overseas
+582,61.65413533834586,62.295081967213115,63.46153846153846,,93.28358208955224,57.89473684210527,,,,,Mustafizur Rahman,left-hand-bat,left-arm-fast-medium,Bowler,2021.0,Mustafizur Rahman,10000000,Overseas
+583,46.85314685314685,65.15151515151516,66.37931034482759,,92.41379310344827,29.37062937062937,,,,,Mustafizur Rahman,left-hand-bat,left-arm-fast-medium,Bowler,2022.0,Mustafizur Rahman,20000000,Overseas
+584,,,,,,,,,,,,,,,2014.0,Muttiah Muralitharan,10000000,Overseas
+585,,,,,,,,,,,,,,,2018.0,N Jagadeesan,2000000,Indian
+586,,,,,,,,,,,,,,,2022.0,N. Jagadeesan,2000000,Indian
+587,,,,,,,,,,,,,,,2022.0,N. Tilak Varma,17000000,Indian
+588,,,,,,,,,,,,,,,2014.0,Naman Ojha,5000000,Indian
+589,,,,,,,,,,,,,,,2018.0,Naman Ojha,14000000,Indian
+590,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2013.0,Nathan Coulter-Nile,33750000,Overseas
+591,100.0,33.33333333333333,66.66666666666666,100.0,100.0,100.0,100.0,100.0,100.0,100.0,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2014.0,Nathan Coulter-Nile,42500000,Overseas
+592,85.71428571428571,71.42857142857143,100.0,20.0,85.71428571428571,57.14285714285714,85.71428571428571,28.57142857142857,33.33333333333333,33.33333333333333,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2017.0,Nathan Coulter-Nile,35000000,Overseas
+593,12.5,62.5,85.71428571428571,83.33333333333334,87.5,50.0,75.0,100.0,83.33333333333334,66.66666666666666,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2018.0,Nathan Coulter-Nile,22000000,Overseas
+594,22.22222222222222,88.88888888888889,33.33333333333333,88.88888888888889,100.0,55.55555555555556,77.77777777777779,44.44444444444444,22.22222222222222,22.22222222222222,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2020.0,Nathan Coulter-Nile,80000000,Overseas
+595,33.33333333333333,88.88888888888889,33.33333333333333,88.88888888888889,88.88888888888889,77.77777777777779,77.77777777777779,66.66666666666666,22.22222222222222,22.22222222222222,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2021.0,Nathan Coulter-Nile,50000000,Overseas
+596,54.54545454545454,100.0,63.63636363636363,81.81818181818183,72.72727272727273,81.81818181818183,54.54545454545454,36.36363636363637,18.181818181818183,27.27272727272727,Nathan Coulter-Nile,right-hand-bat,right-arm-fast,Bowling Allrounder,2022.0,Nathan Coulter-Nile,20000000,Overseas
+597,96.5034965034965,100.0,92.24137931034483,,62.06896551724138,63.63636363636363,,,,,Nathan Ellis,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Nathan Ellis,7500000,Overseas
+598,45.83333333333333,11.904761904761903,15.789473684210526,,79.16666666666666,29.166666666666668,,,,,Nathan McCullum,right-hand-bat,right-arm-offbreak,Bowler,2013.0,Nathan McCullum,7500000,Overseas
+599,,,,,,,,,,,,,,,2016.0,Nathu Singh,32000000,Indian
+600,,,,,,,,,,,,,,,2017.0,Nathu Singh,5000000,Indian
+601,,,,,,,,,,,,,,,2019.0,Nathu Singh,2000000,Indian
+602,,,,,,,,,,,,,,,2017.0,Navdeep Saini,1000000,Indian
+603,,,,,,,,,,,,,,,2018.0,Navdeep Saini,30000000,Indian
+604,86.01398601398601,64.39393939393939,88.79310344827587,,55.86206896551724,97.2027972027972,,,,,Navdeep Saini,right-hand-bat,right-arm-fast,Bowler,2022.0,Navdeep Saini,26000000,Indian
+605,,,,94.28571428571428,,,33.33333333333333,15.384615384615385,12.82051282051282,17.94871794871795,Nic Maddinson,left-hand-bat,slow-left-arm-orthodox,Batsman,2014.0,Nic Maddinson,5000000,Overseas
+606,,,,,,,,,,,,,,,2022.0,Nicolas Pooran,107500000,Overseas
+607,,,,,,,,,,,,,,,2017.0,Nicolas Pooran,3000000,Overseas
+608,,,,28.125,,,71.42857142857143,62.857142857142854,41.17647058823529,26.47058823529412,Nicolas Pooran,left-hand-bat,,Wicketkeeper,2019.0,Nicolas Pooran,42000000,Overseas
+609,,,,,,,,,,,,,,,2018.0,Nidheesh M D Dinesan,2000000,Indian
+610,,,,,,,,,,,,,,,2015.0,Nikhil Shankar Naik,3000000,Indian
+611,,,,,,,,,,,,,,,2019.0,Nikhil Shankar Naik,2000000,Indian
+612,,,,,,,,,,,,,,,2020.0,Nikhil Shankar Naik,2000000,Indian
+613,,,,,,,,,,,,,,,2015.0,Nitish Rana,1000000,Indian
+614,,,,,,,,,,,,,,,2018.0,Nitish Rana,34000000,Indian
+615,,,,,,,,,,,,,,,2022.0,Nitish Rana,80000000,Indian
+616,,,,,,,,,,,,,,,2022.0,Noor Ahmad,3000000,Overseas
+617,,,,,,,,,,,,,,,2022.0,Obed Mccoy,7500000,Overseas
+618,27.631578947368425,63.888888888888886,68.51851851851852,65.27777777777779,80.24691358024691,59.210526315789465,58.0246913580247,58.0246913580247,59.74025974025974,82.05128205128204,Odean Smith,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Odean Smith,60000000,Overseas
+619,62.06896551724138,40.38461538461539,34.48275862068966,,72.64957264957265,75.0,,,,,Oshane Thomas,left-hand-bat,right-arm-fast,Bowler,2019.0,Oshane Thomas,11000000,Overseas
+620,37.5,64.81481481481481,31.914893617021278,,71.900826446281,78.33333333333333,,,,,Oshane Thomas,left-hand-bat,right-arm-fast,Bowler,2020.0,Oshane Thomas,5000000,Overseas
+621,,,,,,,,,,,,,,,2019.0,Pankaj Jaswal,2000000,Overseas
+622,,,,,,,,,,,,,,,2013.0,Pankaj Singh,11250000,Indian
+623,,,,,,,,,,,,,,,2016.0,Paras Dogra,1000000,Indian
+624,,,,,,,,,,,,,,,2015.0,Pardeep Sahu,1000000,Indian
+625,,,,,,,,,,,,,,,2016.0,Pardeep Sahu,1000000,Indian
+626,,,,,,,,,,,,,,,2018.0,Pardeep Sahu,2000000,Indian
+627,,,,,,,,,,,,,,,2014.0,Parthiv Patel,14000000,Indian
+628,,,,,,,,,,,,,,,2018.0,Parthiv Patel,17000000,Indian
+629,,,,,,,,,,,,,,,2014.0,Parveez Rasool,9500000,Indian
+630,,,,,,,,,,,,,,,2014.0,Parvinder Awana,6500000,Indian
+631,89.42307692307693,86.17021276595744,74.02597402597402,,52.38095238095239,98.07692307692307,,,,,Pat Cummins,right-hand-bat,right-arm-fast,Bowler,2018.0,Pat Cummins,54000000,Overseas
+632,63.33333333333333,55.55555555555556,75.53191489361703,,66.11570247933885,43.333333333333336,,,,,Pat Cummins,right-hand-bat,right-arm-fast,Bowler,2020.0,Pat Cummins,155000000,Overseas
+633,51.74825174825175,35.60606060606061,56.03448275862068,,80.0,86.7132867132867,,,,,Pat Cummins,right-hand-bat,right-arm-fast,Bowler,2022.0,Pat Cummins,72500000,Overseas
+634,100.0,26.08695652173913,92.10526315789474,,48.07692307692308,82.6923076923077,,,,,Pat Cummins,right-hand-bat,right-arm-fast,Bowler,2014.0,Pat Cummins,10000000,Overseas
+635,87.91208791208791,85.8974358974359,69.84126984126983,,58.69565217391305,94.5054945054945,,,,,Pat Cummins,right-hand-bat,right-arm-fast,Bowler,2017.0,Pat Cummins,45000000,Overseas
+636,,,,,,,,,,,,,,,2018.0,Pavan Deshpande,2000000,Indian
+637,,,,,,,,,,,,,,,2020.0,Pavan Deshpande,2000000,Indian
+638,,,,,,,,,,,,,,,2014.0,Pawan Negi,1000000,Indian
+639,,,,,,,,,,,,,,,2016.0,Pawan Negi,85000000,Indian
+640,,,,,,,,,,,,,,,2017.0,Pawan Negi,10000000,Indian
+641,,,,,,,,,,,,,,,2018.0,Pawan Negi,10000000,Indian
+642,,,,,,,,,,,,,,,2021.0,Pawan Negi,5000000,Indian
+643,,,,,,,,,,,,,,,2014.0,Pawan Suyal,1000000,Indian
+644,,,,,,,,,,,,,,,2016.0,Pawan Suyal,1000000,Indian
+645,,,,,,,,,,,,,,,2016.0,Peter Handscomb,3000000,Overseas
+646,,,,,,,,,,,,,,,2013.0,Philip Hughes,7500000,Overseas
+647,,,,,,,,,,,,,,,2014.0,Piyush Chawla,42500000,Indian
+648,,,,,,,,,,,,,,,2018.0,Piyush Chawla,42000000,Indian
+649,,,,,,,,,,,,,,,2020.0,Piyush Chawla,67500000,Indian
+650,,,,,,,,,,,,,,,2021.0,Piyush Chawla,24000000,Indian
+651,,,,,,,,,,,,,,,2019.0,Prabhsimran Singh,48000000,Indian
+652,,,,,,,,,,,,,,,2020.0,Prabhsimran Singh,5500000,Indian
+653,,,,,,,,,,,,,,,2022.0,Prabhsimran Singh,6000000,Indian
+654,,,,,,,,,,,,,,,2016.0,Pradeep Sangwan,2000000,Indian
+655,,,,,,,,,,,,,,,2018.0,Pradeep Sangwan,15000000,Indian
+656,,,,,,,,,,,,,,,2022.0,Pradeep Sangwan,2000000,Indian
+657,,,,,,,,,,,,,,,2014.0,Pragyan Ojha,32500000,Indian
+658,,,,,,,,,,,,,,,2015.0,Pragyan Ojha,5000000,Indian
+659,,,,,,,,,,,,,,,2015.0,Prasanth Padmanabhan,1000000,Indian
+660,,,,,,,,,,,,,,,2014.0,Prasanth Parameswaran,3000000,Indian
+661,,,,,,,,,,,,,,,2018.0,Prashant Chopra,2000000,Indian
+662,,,,,,,,,,,,,,,2022.0,Prashant Solanki,12000000,Indian
+663,,,,,,,,,,,,,,,2022.0,Prasidh Krishna,100000000,Indian
+664,,,,,,,,,,,,,,,2017.0,Pratham Singh,1000000,Indian
+665,,,,,,,,,,,,,,,2022.0,Pratham Singh,2000000,Indian
+666,,,,,,,,,,,,,,,2015.0,Pratyush Singh,1000000,Indian
+667,,,,,,,,,,,,,,,2016.0,Pratyush Singh,1000000,Indian
+668,,,,,,,,,,,,,,,2016.0,Praveen Dubey,3500000,Indian
+669,,,,,,,,,,,,,,,2017.0,Praveen Dubey,1000000,Indian
+670,,,,,,,,,,,,,,,2015.0,Praveen Kumar,22000000,Indian
+671,,,,,,,,,,,,,,,2016.0,Praveen Kumar,35000000,Indian
+672,,,,,,,,,,,,,,,2022.0,Pravin Dubey,5000000,Indian
+673,,,,,,,,,,,,,,,2014.0,Pravin Tambe,1000000,Indian
+674,,,,,,,,,,,,,,,2016.0,Pravin Tambe,2000000,Indian
+675,,,,,,,,,,,,,,,2017.0,Pravin Tambe,1000000,Indian
+676,,,,,,,,,,,,,,,2020.0,Pravin Tambe,2000000,Indian
+677,,,,,,,,,,,,,,,2019.0,Prayas Ray Barman,15000000,Indian
+678,,,,,,,,,,,,,,,2022.0,Prerak Mankad,2000000,Indian
+679,,,,,,,,,,,,,,,2020.0,Prince Balwant Rai Singh,2000000,Indian
+680,,,,,,,,,,,,,,,2019.0,Prithvi Raj Yarra,2000000,Indian
+681,,,,,,,,,,,,,,,2018.0,Prithvi Shaw,12000000,Indian
+682,,,,,,,,,,,,,,,2020.0,Priyam Garg,19000000,Indian
+683,,,,,,,,,,,,,,,2022.0,Priyam Garg,2000000,Indian
+684,,,,,,,,,,,,,,,2013.0,Quinton De Kock,1500000,Overseas
+685,,,,20.0,,,87.5,56.25,31.25,31.25,Quinton De Kock,left-hand-bat,,Wicketkeeper,2014.0,Quinton De Kock,35000000,Overseas
+686,,,,25.0,,,91.42857142857143,85.71428571428571,32.35294117647059,88.23529411764706,Quinton De Kock,left-hand-bat,,Wicketkeeper,2018.0,Quinton De Kock,28000000,Overseas
+687,,,,,,,,,,,,,,,2022.0,Quinton De Kock,67500000,Overseas
+688,,,,,,,,,,,,,,,2022.0,R Samarth,2000000,Indian
+689,,,,,,,,,,,,,,,2022.0,R. Ashwin,50000000,Indian
+690,,,,,,,,,,,,,,,2020.0,R. Sai Kishore,2000000,Indian
+691,,,,,,,,,,,,,,,2022.0,R. Sai Kishore,30000000,Indian
+692,,,,,,,,,,,,,,,2017.0,R. Sanjay Yadav,1000000,Indian
+693,,,,,,,,,,,,,,,2017.0,Rahul Ajay Tripathi,1000000,Indian
+694,,,,,,,,,,,,,,,2022.0,Rahul Buddhi,2000000,Indian
+695,,,,,,,,,,,,,,,2017.0,Rahul Chahar,1000000,Indian
+696,,,,,,,,,,,,,,,2018.0,Rahul Chahar,19000000,Indian
+697,24.475524475524477,57.57575757575758,76.72413793103449,,34.48275862068966,16.083916083916083,,,,,Rahul Chahar,right-hand-bat,legbreak-googly,Bowler,2022.0,Rahul Chahar,52500000,Indian
+698,,,,,,,,,,,,,,,2014.0,Rahul Sharma,19000000,Indian
+699,,,,,,,,,,,,,,,2015.0,Rahul Sharma,3000000,Indian
+700,,,,,,,,,,,,,,,2014.0,Rahul Shukla,4000000,Indian
+701,,,,,,,,,,,,,,,2014.0,Rahul Tewatia,1000000,Indian
+702,,,,,,,,,,,,,,,2017.0,Rahul Tewatia,2500000,Indian
+703,,,,,,,,,,,,,,,2018.0,Rahul Tewatia,30000000,Indian
+704,,,,,,,,,,,,,,,2022.0,Rahul Tewatia,90000000,Indian
+705,,,,,,,,,,,,,,,2018.0,Rahul Tripathi,34000000,Indian
+706,,,,,,,,,,,,,,,2020.0,Rahul Tripathi,6000000,Indian
+707,,,,,,,,,,,,,,,2022.0,Rahul Tripathi,85000000,Indian
+708,,,,,,,,,,,,,,,2022.0,Raj Angad Bawa,20000000,Indian
+709,,,,,,,,,,,,,,,2016.0,Rajagopal Sathish,2000000,Indian
+710,,,,,,,,,,,,,,,2014.0,Rajat Bhatia,17000000,Indian
+711,,,,,,,,,,,,,,,2016.0,Rajat Bhatia,6000000,Indian
+712,,,,,,,,,,,,,,,2021.0,Rajat Patidar,2000000,Indian
+713,,,,,,,,,,,,,,,2022.0,Rajvardhan Hangargekar,15000000,Indian
+714,,,,,,,,,,,,,,,2022.0,Ramandeep Singh,2000000,Indian
+715,,,,,,,,,,,,,,,2022.0,Ramesh Kumar,2000000,Indian
+716,90.38461538461539,97.82608695652173,81.57894736842105,,46.15384615384615,57.692307692307686,,,,,Ranganath Vinay Kumar,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Ranganath Vinay Kumar,28000000,Indian
+717,94.23076923076923,97.3404255319149,88.31168831168831,,40.95238095238095,59.61538461538461,,,,,Ranganath Vinay Kumar,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Ranganath Vinay Kumar,10000000,Indian
+718,,,,,,,,,,,,,,,2017.0,Rashid Khan Arman,40000000,Overseas
+719,,,,,,,,,,,,,,,2018.0,Rashid Khan Arman,90000000,Overseas
+720,,,,,,,,,,,,,,,2019.0,Rasikh Dar,2000000,Indian
+721,,,,,,,,,,,,,,,2022.0,Rasikh Dar,2000000,Indian
+722,,,,,,,,,,,,,,,2022.0,Rassie Van Der Dussen,10000000,Overseas
+723,,,,,,,,,,,,,,,2020.0,Ravi Bishnoi,20000000,Indian
+724,60.0,20.0,33.33333333333333,80.0,100.0,60.0,100.0,100.0,60.0,100.0,Ravi Bopara,right-hand-bat,right-arm-fast-medium,Batting Allrounder,2015.0,Ravi Bopara,10000000,Indian
+725,,,,,,,,,,,,,,,2013.0,Ravi Rampaul,21750000,Overseas
+726,23.076923076923077,,,,6.730769230769231,11.538461538461538,,,,,Ravi Rampaul,left-hand-bat,right-arm-fast-medium,Bowler,2014.0,Ravi Rampaul,9000000,Overseas
+727,50.0,75.0,42.857142857142854,33.33333333333333,100.0,87.5,62.5,50.0,16.666666666666664,83.33333333333334,Ravichandran Ashwin,right-hand-bat,right-arm-offbreak,Bowling Allrounder,2018.0,Ravichandran Ashwin,76000000,Overseas
+728,,,,,,,,,,,,,,,2014.0,Ricky Bhui,1000000,Overseas
+729,,,,,,,,,,,,,,,2018.0,Ricky Bhui,2000000,Overseas
+730,,,,,,,,,,,,,,,2013.0,Ricky Ponting,30000000,Overseas
+731,25.563909774436087,82.37704918032787,1.9230769230769231,,58.2089552238806,78.57142857142857,,,,,Riley Meredith,right-hand-bat,right-arm-fast,Bowler,2021.0,Riley Meredith,80000000,Overseas
+732,25.174825174825177,79.16666666666666,1.7241379310344827,,53.79310344827586,72.02797202797203,,,,,Riley Meredith,right-hand-bat,right-arm-fast,Bowler,2022.0,Riley Meredith,10000000,Overseas
+733,,,,,,,,,,,,,,,2017.0,Rinku Singh,1000000,Indian
+734,,,,,,,,,,,,,,,2018.0,Rinku Singh,8000000,Indian
+735,,,,,,,,,,,,,,,2022.0,Rinku Singh,5500000,Indian
+736,,,,,,,,,,,,,,,2021.0,Ripal Patel,2000000,Indian
+737,,,,,,,,,,,,,,,2022.0,Ripal Patel,2000000,Indian
+738,,,,,,,,,,,,,,,2016.0,Rishabh Pant,19000000,Indian
+739,,,,,,,,,,,,,,,2014.0,Rishi Dhawan,30000000,Indian
+740,,,,,,,,,,,,,,,2017.0,Rishi Dhawan,5500000,Indian
+741,,,,,,,,,,,,,,,2022.0,Rishi Dhawan,5500000,Indian
+742,,,,,,,,,,,,,,,2019.0,Riyan Parag,2000000,Indian
+743,,,,,,,,,,,,,,,2022.0,Riyan Parag,38000000,Indian
+744,,,,,,,,,,,,,,,2014.0,Robin Uthappa,50000000,Indian
+745,,,,,,,,,,,,,,,2018.0,Robin Uthappa,64000000,Indian
+746,,,,,,,,,,,,,,,2020.0,Robin Uthappa,30000000,Indian
+747,,,,,,,,,,,,,,,2022.0,Robin Uthappa,20000000,Indian
+748,27.27272727272727,54.54545454545454,45.45454545454545,72.72727272727273,27.27272727272727,45.45454545454545,72.72727272727273,100.0,81.81818181818183,90.9090909090909,Romario Shepherd,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2022.0,Romario Shepherd,77500000,Overseas
+749,,,,,,,,,,,,,,,2014.0,Ronit More,1000000,Indian
+750,,,,100.0,,,100.0,100.0,100.0,100.0,Ross Taylor,right-hand-bat,right-arm-offbreak,Middle Order Batter,2014.0,Ross Taylor,20000000,Overseas
+751,,,,22.0,,,37.03703703703704,50.0,28.30188679245283,76.41509433962264,Rovman Powell,right-hand-bat,right-arm-fast-medium,Batsman,2017.0,Rovman Powell,3000000,Overseas
+752,,,,57.57575757575758,,,81.15942028985508,81.15942028985508,57.35294117647059,83.82352941176471,Rovman Powell,right-hand-bat,right-arm-fast-medium,Batsman,2022.0,Rovman Powell,28000000,Overseas
+753,,,,,,,,,,,,,,,2013.0,Rudra Pratap Singh,30000000,Indian
+754,,,,,,,,,,,,,,,2016.0,Rudra Pratap Singh,3000000,Indian
+755,,,,,,,,,,,,,,,2019.0,Ruturaj Gaikwad,2000000,Indian
+756,,,,,,,,,,,,,,,2013.0,Ryan McLaren,3750000,Overseas
+757,,,,,,,,,,,,,,,2014.0,Ryan Ten Doeschate,10000000,Overseas
+758,,,,,,,,,,,,,,,2016.0,Sachin Baby,1000000,Indian
+759,,,,,,,,,,,,,,,2018.0,Sachin Baby,2000000,Indian
+760,,,,,,,,,,,,,,,2021.0,Sachin Baby,2000000,Indian
+761,,,,,,,,,,,,,,,2014.0,Sachin Rana,2000000,Indian
+762,,,,,,,,,,,,,,,2013.0,Sachithra Senanayaka,46875000,Overseas
+763,,,,,,,,,,,,,,,2015.0,Sagar Trivedi,1000000,Indian
+764,,,,35.0,,,18.181818181818183,18.181818181818183,90.47619047619048,23.809523809523807,Sam Billings,right-hand-bat,,Wicketkeeper,2016.0,Sam Billings,3000000,Overseas
+765,,,,43.75,,,57.14285714285714,17.142857142857142,67.64705882352942,38.23529411764706,Sam Billings,right-hand-bat,,Wicketkeeper,2018.0,Sam Billings,10000000,Overseas
+766,,,,83.33333333333334,,,60.526315789473685,10.526315789473683,5.405405405405405,35.13513513513514,Sam Billings,right-hand-bat,,Wicketkeeper,2021.0,Sam Billings,20000000,Overseas
+767,,,,37.5,,,59.523809523809526,52.38095238095239,19.51219512195122,78.04878048780488,Sam Billings,right-hand-bat,,Wicketkeeper,2022.0,Sam Billings,20000000,Overseas
+768,45.76271186440678,67.27272727272727,62.5,74.13793103448276,67.6923076923077,46.61016949152542,40.0,55.38461538461539,67.74193548387096,79.03225806451613,Sam Curran,left-hand-bat,left-arm-fast-medium,Allrounder,2019.0,Sam Curran,72000000,Overseas
+769,35.483870967741936,66.10169491525424,48.888888888888886,41.66666666666667,75.0,32.25806451612903,39.705882352941174,35.294117647058826,95.3125,32.8125,Sam Curran,left-hand-bat,left-arm-fast-medium,Allrounder,2020.0,Sam Curran,55000000,Overseas
+770,,,,2.857142857142857,,,20.51282051282051,28.205128205128204,15.384615384615385,12.82051282051282,Samuel Badree,right-hand-bat,legbreak,Batsman,2014.0,Samuel Badree,3000000,Overseas
+771,,,,2.1739130434782608,,,14.285714285714285,8.16326530612245,6.25,6.25,Samuel Badree,right-hand-bat,legbreak,Batsman,2016.0,Samuel Badree,5000000,Overseas
+772,,,,,,,,,,,,,,,2020.0,Sandeep Bavanaka,2000000,Overseas
+773,,,,,,,,,,,,,,,2018.0,Sandeep Lamichhane,2000000,Overseas
+774,,,,,,,,,,,,,,,2014.0,Sandeep Sharma,8500000,Indian
+775,,,,,,,,,,,,,,,2018.0,Sandeep Sharma,30000000,Indian
+776,,,,,,,,,,,,,,,2022.0,Sandeep Sharma,5000000,Indian
+777,,,,,,,,,,,,,,,2014.0,Sandeep Warrier,1000000,Indian
+778,,,,,,,,,,,,,,,2020.0,Sanjay Yadav,2000000,Indian
+779,,,,,,,,,,,,,,,2022.0,Sanjay Yadav,5000000,Indian
+780,,,,,,,,,,,,,,,2016.0,Sanju Samson,42000000,Indian
+781,,,,,,,,,,,,,,,2018.0,Sanju Samson,80000000,Indian
+782,,,,,,,,,,,,,,,2016.0,Sarabjit Ladda,1000000,Indian
+783,,,,,,,,,,,,,,,2022.0,Sarfaraz Khan,2000000,Indian
+784,,,,,,,,,,,,,,,2015.0,Sarfaraz Naushad Khan,5000000,Indian
+785,,,,,,,,,,,,,,,2019.0,Sarfaraz Naushad Khan,2500000,Indian
+786,,,,,,,,,,,,,,,2022.0,Saurabh Dubey,2000000,Indian
+787,,,,,,,,,,,,,,,2017.0,Saurabh Kumar,1000000,Indian
+788,,,,,,,,,,,,,,,2021.0,Saurabh Kumar,2000000,Indian
+789,,,,,,,,,,,,,,,2014.0,Saurabh Tiwary,7000000,Indian
+790,,,,,,,,,,,,,,,2017.0,Saurabh Tiwary,3000000,Indian
+791,,,,,,,,,,,,,,,2018.0,Saurabh Tiwary,8000000,Indian
+792,,,,,,,,,,,,,,,2020.0,Saurabh Tiwary,5000000,Indian
+793,,,,,,,,,,,,,,,2017.0,Sayan Ghosh,1000000,Indian
+794,,,,,,,,,,,,,,,2018.0,Sayan Ghosh,2000000,Indian
+795,,,,,,,,,,,,,,,2014.0,Sayan Sekhar Mandal,1000000,Indian
+796,28.000000000000004,,7.6923076923076925,,8.666666666666668,22.666666666666664,,,,,Scott Boland,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Scott Boland,5000000,Overseas
+797,27.77777777777778,,,34.375,13.750000000000002,55.55555555555556,17.5,27.500000000000004,97.2972972972973,8.108108108108109,Sean Abbott,right-hand-bat,right-arm-fast-medium,Allrounder,2015.0,Sean Abbott,10000000,Overseas
+798,5.263157894736842,2.7777777777777777,25.925925925925924,52.77777777777778,17.28395061728395,47.368421052631575,22.22222222222222,11.11111111111111,63.63636363636363,91.02564102564102,Sean Abbott,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Sean Abbott,24000000,Overseas
+799,,,,,,,,,,,,,,,2014.0,Shadab Jakati,2000000,Indian
+800,,,,,,,,,,,,,,,2016.0,Shadab Jakati,2000000,Indian
+801,,,,,,,,,,,,,,,2020.0,Shahbaz Ahamad,2000000,Indian
+802,,,,,,,,,,,,,,,2022.0,Shahbaz Ahamad,24000000,Indian
+803,,,,,,,,,,,,,,,2014.0,Shahbaz Nadeem,8500000,Indian
+804,,,,,,,,,,,,,,,2018.0,Shahbaz Nadeem,32000000,Indian
+805,,,,,,,,,,,,,,,2022.0,Shahbaz Nadeem,5000000,Indian
+806,,,,,,,,,,,,,,,2021.0,Shahrukh Khan,52500000,Indian
+807,,,,,,,,,,,,,,,2022.0,Shahrukh Khan,90000000,Indian
+808,30.0,4.0,6.25,63.33333333333333,39.705882352941174,50.0,61.76470588235294,76.47058823529412,56.25,68.75,Shakib Al Hasan,left-hand-bat,slow-left-arm-orthodox,Allrounder,2014.0,Shakib Al Hasan,28000000,Overseas
+809,73.07692307692307,73.46938775510205,97.14285714285714,70.58823529411765,100.0,82.6923076923077,91.37931034482759,91.37931034482759,70.37037037037037,62.96296296296296,Shakib Al Hasan,left-hand-bat,slow-left-arm-orthodox,Allrounder,2018.0,Shakib Al Hasan,20000000,Overseas
+810,73.23943661971832,37.878787878787875,52.0,30.88235294117647,98.66666666666667,73.23943661971832,94.66666666666667,70.66666666666667,33.80281690140845,33.33333333333333,Shakib Al Hasan,left-hand-bat,slow-left-arm-orthodox,Allrounder,2021.0,Shakib Al Hasan,32000000,Overseas
+811,75.60975609756098,77.77777777777779,80.0,72.22222222222221,90.69767441860465,80.48780487804879,90.69767441860465,95.34883720930233,72.5,75.0,Shane Watson,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Shane Watson,95000000,Overseas
+812,76.92307692307693,79.59183673469387,74.28571428571429,74.50980392156863,84.48275862068965,78.84615384615384,89.65517241379311,89.65517241379311,72.22222222222221,74.07407407407408,Shane Watson,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Shane Watson,40000000,Overseas
+813,,,,,,,,,,,,,,,2018.0,Sharad Lumba,2000000,Indian
+814,,,,,,,,,,,,,,,2014.0,Shardul Thakur,2000000,Indian
+815,55.769230769230774,29.78723404255319,72.72727272727273,,53.333333333333336,40.86538461538461,,,,,Shardul Thakur,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Shardul Thakur,26000000,Indian
+816,43.35664335664335,77.27272727272727,90.51724137931035,,84.13793103448276,79.72027972027972,,,,,Shardul Thakur,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Shardul Thakur,107500000,Indian
+817,,,,,,,,,,,,,,,2017.0,Shashank Singh,1000000,Indian
+818,,,,,,,,,,,,,,,2019.0,Shashank Singh,3000000,Indian
+819,,,,,,,,,,,,,,,2022.0,Shashank Singh,2000000,Indian
+820,,,,40.0,,,40.0,40.0,20.0,40.0,Shaun Marsh,left-hand-bat,slow-left-arm-orthodox,Top Order Batter,2014.0,Shaun Marsh,22000000,Overseas
+821,38.333333333333336,5.555555555555555,2.127659574468085,,93.38842975206612,82.5,,,,,Sheldon Cottrell,right-hand-bat,left-arm-fast-medium,Bowler,2020.0,Sheldon Cottrell,85000000,Overseas
+822,,,,,,,,,,,,,,,2015.0,Sheldon Jackson,1500000,Indian
+823,,,,,,,,,,,,,,,2021.0,Sheldon Jackson,2000000,Indian
+824,,,,,,,,,,,,,,,2022.0,Sheldon Jackson,6000000,Indian
+825,,,,,,,,,,,,,,,2017.0,Shelley Shaurya,1000000,Indian
+826,,,,,,,25.0,25.0,14.285714285714285,25.0,Sherfane Rutherford,left-hand-bat,right-arm-fast-medium,Middle Order Batter,2019.0,Sherfane Rutherford,20000000,Overseas
+827,,,,,,,12.5,12.5,12.5,12.5,Sherfane Rutherford,left-hand-bat,right-arm-fast-medium,Middle Order Batter,2022.0,Sherfane Rutherford,10000000,Overseas
+828,,,,69.81132075471697,,,92.98245614035088,75.43859649122807,64.28571428571429,75.0,Shikhar Dhawan,left-hand-bat,right-arm-offbreak,Batsman,2018.0,Shikhar Dhawan,52000000,Indian
+829,,,,43.93939393939394,,,91.30434782608695,13.043478260869565,5.88235294117647,4.411764705882353,Shikhar Dhawan,left-hand-bat,right-arm-offbreak,Batsman,2022.0,Shikhar Dhawan,82500000,Indian
+830,,,,49.122807017543856,,,52.459016393442624,32.78688524590164,71.66666666666667,46.666666666666664,Shimron Hetmyer,left-hand-bat,,Batsman,2019.0,Shimron Hetmyer,42000000,Overseas
+831,,,,5.084745762711865,,,50.0,24.193548387096776,14.754098360655737,8.19672131147541,Shimron Hetmyer,left-hand-bat,,Batsman,2020.0,Shimron Hetmyer,77500000,Overseas
+832,,,,48.484848484848484,,,66.66666666666666,39.130434782608695,73.52941176470588,39.705882352941174,Shimron Hetmyer,left-hand-bat,,Batsman,2022.0,Shimron Hetmyer,85000000,Overseas
+833,,,,,,,,,,,,,,,2015.0,Shishir Bhavane,1000000,Indian
+834,55.932203389830505,16.363636363636363,15.0,60.3448275862069,38.46153846153847,46.61016949152542,53.84615384615385,90.76923076923077,53.2258064516129,82.25806451612904,Shivam Dube,left-hand-bat,right-arm-fast-medium,Allrounder,2019.0,Shivam Dube,50000000,Indian
+835,18.30985915492958,36.36363636363637,18.0,63.23529411764706,46.666666666666664,18.30985915492958,57.333333333333336,44.0,74.64788732394366,48.61111111111111,Shivam Dube,left-hand-bat,right-arm-fast-medium,Allrounder,2021.0,Shivam Dube,44000000,Indian
+836,14.473684210526317,34.72222222222222,18.51851851851852,66.66666666666666,44.44444444444444,17.105263157894736,53.086419753086425,53.086419753086425,77.92207792207793,48.717948717948715,Shivam Dube,left-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Shivam Dube,40000000,Indian
+837,,,,,,,,,,,,,,,2018.0,Shivam Mavi,30000000,Indian
+838,,,,,,,,,,,,,,,2022.0,Shivam Mavi,72500000,Indian
+839,,,,,,,,,,,,,,,2014.0,Shivam Sharma,1000000,Indian
+840,,,,,,,,,,,,,,,2016.0,Shivil Kaushik,1000000,Indian
+841,,,,,,,,,,,,,,,2018.0,Shreevats Goswami,10000000,Indian
+842,,,,,,,,,,,,,,,2014.0,Shreyas Gopal,1000000,Indian
+843,,,,,,,,,,,,,,,2018.0,Shreyas Gopal,2000000,Indian
+844,,,,,,,,,,,,,,,2022.0,Shreyas Gopal,7500000,Indian
+845,,,,,,,,,,,,,,,2015.0,Shreyas Iyer,26000000,Indian
+846,,,,42.42424242424242,,,78.26086956521739,47.82608695652174,47.05882352941176,54.41176470588235,Shreyas Iyer,right-hand-bat,legbreak-googly,Batsman,2022.0,Shreyas Iyer,122500000,Indian
+847,,,,,,,,,,,,,,,2019.0,Shrikant Mundhe,2000000,Indian
+848,,,,,,,,,,,,,,,2017.0,Shubam Agrawal,1000000,Indian
+849,,,,,,,,,,,,,,,2022.0,Shubham Garhwal,2000000,Indian
+850,,,,,,,,,,,,,,,2019.0,Shubham Ranjane,2000000,Indian
+851,,,,,,,,,,,,,,,2018.0,Shubman Gill,18000000,Indian
+852,,,,,,,,,,,,,,,2014.0,Siddarth Kaul,4500000,Indian
+853,,,,,,,,,,,,,,,2015.0,Siddarth Kaul,1000000,Indian
+854,69.23076923076923,97.3404255319149,85.71428571428571,,35.23809523809524,71.15384615384616,,,,,Siddarth Kaul,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Siddarth Kaul,38000000,Indian
+855,,,,,,,,,,,,,,,2022.0,Siddharth Kaul,7500000,Indian
+856,,,,,,,,,,,,,,,2015.0,Siddhesh Dinesh Lad,1000000,Indian
+857,,,,,,,,,,,,,,,2018.0,Siddhesh Dinesh Lad,2000000,Indian
+858,,,,,,,,,,,,,,,2022.0,Simarjeet Singh,2000000,Indian
+859,,,,,,,,,,,,,,,2014.0,Srikkanth Anirudha,2000000,Indian
+860,,,,,,,,,,,,,,,2014.0,Steven Smith,40000000,Overseas
+861,,,,42.857142857142854,,,87.5,75.0,50.0,62.5,Steven Smith,right-hand-bat,legbreak-googly,Middle Order Batter,2021.0,Steven Smith,22000000,Overseas
+862,2.4390243902439024,,,,9.30232558139535,2.4390243902439024,4.651162790697675,4.651162790697675,,,Stuart Binny,right-hand-bat,right-arm-fast-medium,Allrounder,2016.0,Stuart Binny,20000000,Indian
+863,1.9230769230769231,,,,8.620689655172415,1.9230769230769231,4.310344827586207,4.310344827586207,,,Stuart Binny,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Stuart Binny,5000000,Indian
+864,,,,,,,,,,,,,,,2022.0,Subhranshu Senapati,2000000,Indian
+865,,,,,,,,,,,,,,,2015.0,Subramaniam Badrinath,3000000,Indian
+866,,,,,,,,,,,,,,,2013.0,Sudeep Tyagi,7500000,Indian
+867,,,,,,,,,,,,,,,2015.0,Sumit Narwal,1000000,Indian
+868,,,,,,,,,,,,,,,2014.0,Suryakumar Yadav,7000000,Indian
+869,,,,,,,,,,,,,,,2018.0,Suryakumar Yadav,32000000,Indian
+870,,,,,,,,,,,,,,,2014.0,Sushant Marathe,1000000,Indian
+871,,,,,,,,,,,,,,,2021.0,Suyash Prabhudesai,2000000,Indian
+872,,,,,,,,,,,,,,,2022.0,Suyash Prabhudessai,3000000,Indian
+873,,,,,,,,,,,,,,,2016.0,Swapnil Singh,1000000,Indian
+874,,,,,,,,,,,,,,,2016.0,Syed Khaleel Ahmed,1000000,Indian
+875,40.38461538461539,51.06382978723404,23.376623376623375,,64.76190476190476,89.42307692307693,,,,,Syed Khaleel Ahmed,right-hand-bat,left-arm-fast-medium,Bowler,2018.0,Syed Khaleel Ahmed,30000000,Indian
+876,,,,,,,,,,,,,,,2022.0,Syed Khaleel Ahmed,52500000,Indian
+877,,,,,,,,,,,,,,,2018.0,Syed Mehdi Hasan,2000000,Indian
+878,,,,,,,,,,,,,,,2017.0,T Natarajan,30000000,Indian
+879,,,,,,,,,,,,,,,2018.0,T Natarajan,4000000,Indian
+880,,,,,,,,,,,,,,,2022.0,T. Natarajan,40000000,Indian
+881,,,,,,,,,,,,,,,2018.0,Tajinder Dhillon,5500000,Indian
+882,,,,,,,,,,,,,,,2020.0,Tajinder Dhillon,2000000,Indian
+883,,,,,,,,,,,,,,,2017.0,Tanmay Agarwal,1000000,Indian
+884,,,,,,,,,,,,,,,2018.0,Tanmay Agarwal,2000000,Indian
+885,,,,,,,,,,,,,,,2014.0,Tanmay Mishra,1000000,Indian
+886,,,,,,,,,,,,,,,2022.0,Tejas Baroka,2000000,Indian
+887,,,,,,,,,,,,,,,2017.0,Tejas Singh Baroka,1000000,Indian
+888,,,,,,,,,,,,,,,2013.0,Thisara Perera,50625000,Overseas
+889,,,,,,,,,,,,,,,2014.0,Thisara Perera,16000000,Overseas
+890,,,,,,,,,,,,,,,2016.0,Thisara Perera,10000000,Overseas
+891,,,,81.81818181818183,,,40.57971014492754,34.78260869565217,79.41176470588235,85.29411764705883,Tim David,right-hand-bat,right-arm-offbreak,Batsman,2022.0,Tim David,82500000,Overseas
+892,,,,17.5,,,69.04761904761905,23.809523809523807,24.390243902439025,17.073170731707318,Tim Seifert,right-hand-bat,,Wicketkeeper,2022.0,Tim Seifert,5000000,Overseas
+893,42.30769230769231,52.17391304347826,60.526315789473685,,94.23076923076923,48.07692307692308,,,,,Tim Southee,right-hand-bat,right-arm-fast-medium,Bowler,2014.0,Tim Southee,12000000,Overseas
+894,9.333333333333334,34.92063492063492,38.46153846153847,,85.33333333333334,5.333333333333334,,,,,Tim Southee,right-hand-bat,right-arm-fast-medium,Bowler,2016.0,Tim Southee,25000000,Overseas
+895,54.807692307692314,74.46808510638297,80.51948051948052,,93.33333333333333,51.92307692307693,,,,,Tim Southee,right-hand-bat,right-arm-fast-medium,Bowler,2018.0,Tim Southee,10000000,Overseas
+896,36.36363636363637,85.60606060606061,69.82758620689656,,99.3103448275862,74.82517482517483,,,,,Tim Southee,right-hand-bat,right-arm-fast-medium,Bowler,2022.0,Tim Southee,15000000,Overseas
+897,,,,,,,,,,,,,,,2016.0,Tirumalasetti Suman,1000000,Indian
+898,,,,6.779661016949152,,,37.096774193548384,14.516129032258066,16.39344262295082,13.114754098360656,Tom Banton,right-hand-bat,,Batsman,2020.0,Tom Banton,10000000,Overseas
+899,33.33333333333333,55.55555555555556,44.44444444444444,33.33333333333333,66.66666666666666,33.33333333333333,55.55555555555556,66.66666666666666,11.11111111111111,44.44444444444444,Tom Curran,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2020.0,Tom Curran,10000000,Overseas
+900,11.11111111111111,44.44444444444444,44.44444444444444,33.33333333333333,66.66666666666666,11.11111111111111,44.44444444444444,22.22222222222222,11.11111111111111,44.44444444444444,Tom Curran,right-hand-bat,right-arm-fast-medium,Bowling Allrounder,2021.0,Tom Curran,52500000,Overseas
+901,,,,,,,,,,,,,,,2015.0,Travis Head,3000000,Overseas
+902,,,,,,,,,,,,,,,2016.0,Travis Head,5000000,Overseas
+903,88.88888888888889,61.40350877192983,36.36363636363637,,66.66666666666666,100.0,,,,,Trent Boult,right-hand-bat,left-arm-fast-medium,Bowler,2015.0,Trent Boult,38000000,Overseas
+904,49.45054945054945,80.76923076923077,77.77777777777779,,91.30434782608695,78.02197802197803,,,,,Trent Boult,right-hand-bat,left-arm-fast-medium,Bowler,2017.0,Trent Boult,50000000,Overseas
+905,44.230769230769226,75.53191489361703,24.675324675324674,,96.19047619047619,85.57692307692307,,,,,Trent Boult,right-hand-bat,left-arm-fast-medium,Bowler,2018.0,Trent Boult,22000000,Overseas
+906,83.91608391608392,25.757575757575758,75.86206896551724,,94.48275862068965,88.81118881118881,,,,,Trent Boult,right-hand-bat,left-arm-fast-medium,Bowler,2022.0,Trent Boult,80000000,Overseas
+907,,,,,,,,,,,,,,,2020.0,Tushar Deshpande,2000000,Indian
+908,,,,,,,,,,,,,,,2022.0,Tushar Deshpande,2000000,Indian
+909,47.25274725274725,25.64102564102564,52.38095238095239,,42.391304347826086,24.175824175824175,,,,,Tymal Mills,right-hand-bat,left-arm-fast,Bowler,2017.0,Tymal Mills,120000000,Overseas
+910,13.286713286713287,28.030303030303028,29.310344827586203,,70.34482758620689,21.678321678321677,,,,,Tymal Mills,right-hand-bat,left-arm-fast,Bowler,2022.0,Tymal Mills,15000000,Overseas
+911,,,,,,,,,,,,,,,2016.0,Umang Sharma,1000000,Indian
+912,,,,,,,,,,,,,,,2014.0,Umesh Yadav,26000000,Indian
+913,52.88461538461539,59.57446808510638,51.94805194805194,,55.23809523809524,86.53846153846155,,,,,Umesh Yadav,right-hand-bat,right-arm-fast,Bowler,2018.0,Umesh Yadav,42000000,Indian
+914,44.3609022556391,29.508196721311474,10.576923076923077,,52.98507462686567,39.849624060150376,,,,,Umesh Yadav,right-hand-bat,right-arm-fast,Bowler,2021.0,Umesh Yadav,10000000,Indian
+915,21.678321678321677,96.96969696969697,12.931034482758621,,58.620689655172406,65.03496503496503,,,,,Umesh Yadav,right-hand-bat,right-arm-fast,Bowler,2022.0,Umesh Yadav,20000000,Indian
+916,,,,,,,,,,,,,,,2014.0,Unmukt Chand,6500000,Indian
+917,,,,,,,,,,,,,,,2021.0,Utkarsh Singh,2000000,Indian
+918,,,,,,,,,,,,,,,2021.0,Vaibhav Arora,2000000,Indian
+919,,,,,,,,,,,,,,,2022.0,Vaibhav Arora,20000000,Indian
+920,,,,,,,,,,,,,,,2015.0,Vaibhav Rawal,1000000,Indian
+921,,,,,,,,,,,,,,,2014.0,Varun Aaron,20000000,Indian
+922,,,,,,,,,,,,,,,2017.0,Varun Aaron,28000000,Indian
+923,,,,,,,,,,,,,,,2019.0,Varun Aaron,24000000,Indian
+924,,,,,,,,,,,,,,,2022.0,Varun Aaron,5000000,Indian
+925,,,,,,,,,,,,,,,2019.0,Varun Chakaravarthy,84000000,Indian
+926,,,,,,,,,,,,,,,2020.0,Varun Chakaravarthy,40000000,Indian
+927,,,,,,,,,,,,,,,2014.0,Veer Pratap Singh,4000000,Indian
+928,98.59154929577466,96.96969696969697,,66.17647058823529,22.666666666666664,76.05633802816901,36.0,68.0,53.52112676056338,72.22222222222221,Venkatesh Iyer,left-hand-bat,right-arm-fast-medium,Allrounder,2021.0,Venkatesh Iyer,2000000,Indian
+929,,,,,,,,,,,,,,,2014.0,Venugopal Rao,5500000,Indian
+930,,,,,,,,,,,,,,,2022.0,Vicky Ostwal,2000000,Indian
+931,,,,,,,,,,,,,,,2014.0,Vijay Shankar,1000000,Indian
+932,,,,,,,,,,,,,,,2016.0,Vijay Shankar,3500000,Indian
+933,44.230769230769226,61.224489795918366,22.857142857142858,56.86274509803921,55.172413793103445,40.38461538461539,25.862068965517242,65.51724137931035,87.03703703703704,35.18518518518518,Vijay Shankar,right-hand-bat,right-arm-fast-medium,Allrounder,2018.0,Vijay Shankar,32000000,Indian
+934,30.263157894736842,80.55555555555556,29.629629629629626,83.33333333333334,55.55555555555556,84.21052631578947,46.913580246913575,82.71604938271605,84.4155844155844,71.7948717948718,Vijay Shankar,right-hand-bat,right-arm-fast-medium,Allrounder,2022.0,Vijay Shankar,14000000,Indian
+935,,,,,,,,,,,,,,,2014.0,Vijay Zol,3000000,Indian
+936,,,,,,,,,,,,,,,2016.0,Vikas Tokas,1000000,Indian
+937,,,,,,,,,,,,,,,2014.0,Vikramjeet Malik,2000000,Indian
+938,,,,,,,,,,,,,,,2016.0,Vikramjeet Malik,2000000,Indian
+939,,,,,,,,,,,,,,,2020.0,Virat Singh,19000000,Indian
+940,,,,,,,,,,,,,,,2014.0,Virender Sehwag,32000000,Indian
+941,,,,,,,,,,,,,,,2021.0,Vishnu Vinod,2000000,Indian
+942,,,,,,,,,,,,,,,2022.0,Vishnu Vinod,5000000,Indian
+943,,,,,,,,,,,,,,,2022.0,Wanindu Hasaranga,107500000,Overseas
+944,18.181818181818183,72.72727272727273,100.0,36.36363636363637,45.45454545454545,27.27272727272727,18.181818181818183,18.181818181818183,45.45454545454545,9.090909090909092,Washington Sundar,left-hand-bat,right-arm-offbreak,Bowling Allrounder,2022.0,Washington Sundar,87500000,Indian
+945,51.92307692307693,73.91304347826086,55.26315789473685,,90.38461538461539,31.73076923076923,,,,,Wayne Parnell,left-hand-bat,left-arm-fast-medium,Bowler,2014.0,Wayne Parnell,10000000,Overseas
+946,,,,,,,,,,,,,,,2014.0,Wriddhiman Saha,22000000,Indian
+947,,,,,,,,,,,,,,,2018.0,Wriddhiman Saha,50000000,Indian
+948,,,,,,,,,,,,,,,2019.0,Wriddhiman Saha,12000000,Indian
+949,,,,,,,,,,,,,,,2022.0,Wriddhiman Saha,19000000,Indian
+950,,,,,,,,,,,,,,,2022.0,Writtick Chatterjee,2000000,Indian
+951,,,,,,,,,,,,,,,2022.0,Yash Dayal,32000000,Indian
+952,,,,,,,,,,,,,,,2022.0,Yash Dhull,5000000,Indian
+953,,,,,,,,,,,,,,,2020.0,Yashasvi Jaiswal,24000000,Indian
+954,,,,,,,,,,,,,,,2015.0,Yogesh Gowalkar,1000000,Indian
+955,,,,,,,,,,,,,,,2014.0,Yogesh Takawale,1000000,Indian
+956,,,,,,,,,,,,,,,2021.0,Yudhvir Charak,2000000,Indian
+957,,,,,,,,,,,,,,,2014.0,Yusuf Pathan,32500000,Indian
+958,,,,,,,,,,,,,,,2018.0,Yusuf Pathan,19000000,Indian
+959,,,,70.0,14.705882352941178,,88.23529411764706,88.23529411764706,81.25,65.625,Yuvraj Singh,left-hand-bat,slow-left-arm-orthodox,Allrounder,2014.0,Yuvraj Singh,140000000,Indian
+960,,,,62.5,13.750000000000002,,87.5,87.5,81.08108108108108,59.45945945945946,Yuvraj Singh,left-hand-bat,slow-left-arm-orthodox,Allrounder,2015.0,Yuvraj Singh,160000000,Indian
+961,87.8048780487805,72.22222222222221,,38.88888888888889,48.837209302325576,73.17073170731707,88.37209302325581,69.76744186046511,50.0,42.5,Yuvraj Singh,left-hand-bat,slow-left-arm-orthodox,Allrounder,2016.0,Yuvraj Singh,70000000,Indian
+962,88.46153846153845,75.51020408163265,,45.09803921568628,48.275862068965516,64.42307692307693,86.20689655172413,58.620689655172406,68.51851851851852,51.85185185185185,Yuvraj Singh,left-hand-bat,slow-left-arm-orthodox,Allrounder,2018.0,Yuvraj Singh,20000000,Indian
+963,86.4406779661017,74.54545454545455,,53.44827586206896,49.23076923076923,62.71186440677966,86.15384615384616,63.07692307692307,69.35483870967742,56.451612903225815,Yuvraj Singh,left-hand-bat,slow-left-arm-orthodox,Allrounder,2019.0,Yuvraj Singh,10000000,Indian
+964,52.44755244755245,61.36363636363637,20.689655172413794,,96.55172413793103,41.25874125874126,,,,,Yuzvendra Chahal,right-hand-bat,legbreak-googly,Bowler,2022.0,Yuzvendra Chahal,65000000,Indian
+965,,,,,,,,,,,,,,,2014.0,Yuzvendra Singh Chahal,1000000,Indian
+966,75.96153846153845,34.04255319148936,12.987012987012985,,91.42857142857143,43.269230769230774,,,,,Yuzvendra Singh Chahal,right-hand-bat,legbreak-googly,Bowler,2018.0,Yuzvendra Singh Chahal,60000000,Indian
+967,,,,,,,,,,,,,,,2014.0,Zaheer Khan,26000000,Indian
+968,,,,,,,,,,,,,,,2015.0,Zaheer Khan,40000000,Indian
+969,,,,,,,,,,,,,,,2018.0,Zahir Khan Pakteen,6000000,Indian
